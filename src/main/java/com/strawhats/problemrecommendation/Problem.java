@@ -9,19 +9,19 @@ public class Problem {
 
 	private static final String PROBLEM_INFO_FILE = "ProblemInfo.csv";
 
-	int problemID;
+	int problemNum;
     String category;
 	int level;
 
-	public Problem(int problemID, String category, int level) {
-		this.problemID = problemID;
+	public Problem(int problemNum, String category, int level) {
+		this.problemNum = problemNum;
 		this.category = category;
 		this.level = level;
 	}
 
     @Override
     public String toString() {
-		return "{Problem ID: " + problemID + ", Category: " + category + ", Level: " + level + "}";
+		return "{Problem Num: " + problemNum + ", Category: " + category + ", Level: " + level + "}";
 	}
 
 	public static ArrayList<Problem> getProblems() throws FileNotFoundException {
