@@ -1,14 +1,46 @@
 package com.strawhats.problemrecommendation;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Problem {
-    int problemID;
+
+	private static final String PROBLEM_INFO_FILE = "ProblemInfo.csv";
+
+	int problemID;
     String category;
-    int sumbmissions;
-    int accepted;
+	int level;
+
+	public Problem(int problemID, String category, int level) {
+		this.problemID = problemID;
+		this.category = category;
+		this.level = level;
+	}
 
     @Override
     public String toString() {
-        return "{Problem ID: " + problemID + ", Category: " + category + ", Sumbissions: " + sumbmissions + ", Accepted: " + accepted + "}";
-    }
+		return "{Problem ID: " + problemID + ", Category: " + category + ", Level: " + level + "}";
+	}
+
+	public static ArrayList<Problem> getProblems() throws FileNotFoundException {
+		Scanner fileScanner = new Scanner(new File(PROBLEM_INFO_FILE));
+		fileScanner.useDelimiter("\n|,");
+
+		// Ignore first line, it contains file headers
+		fileScanner.nextLine();
+
+		ArrayList<Problem> problems = new ArrayList<>();
+		while (fileScanner.hasNext()) {
+			int problemID = fileScanner.nextInt();
+			String category = fileScanner.next();
+			int level = fileScanner.nextInt();
+
+			problems.add(new Problem(problemID, category, level));
+		}
+
+		return problems;
+	}
     
 }
