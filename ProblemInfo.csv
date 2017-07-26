@@ -1,1407 +1,1407 @@
-Problem ID,Category,Difficulty Level
-272,Introduction,0
-1124,Introduction,1
-10550,Introduction,1
-11044,Introduction,1
-11172,Introduction,0
-11364,Introduction,1
-11498,Introduction,1
-11547,Introduction,1
-11727,Introduction,1
-12250,Introduction,2
-12279,Introduction,2
-12289,Introduction,1
-12372,Introduction,1
-12403,Introduction,2
-12577,Introduction,1
-621,Introduction,2
-10114,Introduction,2
-10300,Introduction,0
-10963,Introduction,3
-11332,Introduction,1
-11559,Introduction,1
-11679,Introduction,3
-11764,Introduction,1
-11799,Introduction,1
-11942,Introduction,2
-12015,Introduction,2
-12157,Introduction,2
-12468,Introduction,2
-12503,Introduction,2
-12554,Introduction,2
-119,Introduction,2
-573,Introduction,1
-661,Introduction,2
-10141,Introduction,2
-10324,Introduction,2
-10424,Introduction,1
-10919,Introduction,3
-11507,Introduction,3
-11586,Introduction,3
-11661,Introduction,2
-11683,Introduction,3
-11687,Introduction,3
-11956,Introduction,4
-12478,Introduction,3
-170,Introduction,3
-300,Introduction,3
-579,Introduction,1
-893,Introduction,3
-10070,Introduction,2
-10339,Introduction,4
-10371,Introduction,4
-10683,Introduction,3
-11219,Introduction,2
-11356,Introduction,4
-11650,Introduction,3
-11677,Introduction,2
-11947,Introduction,3
-11958,Introduction,4
-12019,Introduction,3
-12136,Introduction,3
-12148,Introduction,5
-12439,Introduction,4
-12531,Introduction,3
-144,Introduction,3
-214,Introduction,6
-335,Introduction,5
-337,Introduction,3
-349,Introduction,4
-381,Introduction,4
-405,Introduction,5
-556,Introduction,3
-603,Introduction,4
-830,Introduction,5
-945,Introduction,6
-10033,Introduction,2
-10134,Introduction,5
-10142,Introduction,2
-10188,Introduction,3
-10267,Introduction,2
-10961,Introduction,6
-11140,Introduction,5
-11717,Introduction,5
-12060,Introduction,4
-12085,Introduction,4
-12608,Introduction,5
-162,Introduction,4
-462,Introduction,3
-555,Introduction,3
-10205,Introduction,3
-10315,Introduction,3
-10646,Introduction,3
-11225,Introduction,4
-11678,Introduction,4
-12247,Introduction,3
-255,Introduction,3
-278,Introduction,2
-696,Introduction,3
-10196,Introduction,2
-10284,Introduction,3
-10849,Introduction,3
-11494,Introduction,2
-340,Introduction,2
-489,Introduction,2
-947,Introduction,5
-10189,Introduction,1
-10279,Introduction,3
-10409,Introduction,2
-10530,Introduction,2
-11459,Introduction,3
-12239,Introduction,4
-114,Introduction,3
-141,Introduction,3
-220,Introduction,4
-227,Introduction,3
-232,Introduction,3
-339,Introduction,4
-379,Introduction,4
-584,Introduction,3
-647,Introduction,4
-10363,Introduction,3
-10443,Introduction,3
-10813,Introduction,3
-10903,Introduction,3
-353,Introduction,3
-401,Introduction,1
-10018,Introduction,1
-10945,Introduction,2
-11221,Introduction,3
-11309,Introduction,4
-148,Introduction,4
-156,Introduction,2
-195,Introduction,2
-454,Introduction,3
-630,Introduction,3
-642,Introduction,3
-10098,Introduction,2
-161,Introduction,3
-187,Introduction,4
-362,Introduction,3
-637,Introduction,3
-857,Introduction,5
-10082,Introduction,1
-10191,Introduction,2
-10528,Introduction,4
-10554,Introduction,4
-10812,Introduction,1
-11530,Introduction,2
-11945,Introduction,4
-11984,Introduction,2
-12195,Introduction,3
-12555,Introduction,4
-139,Introduction,4
-145,Introduction,3
-333,Introduction,3
-346,Introduction,4
-403,Introduction,4
-447,Introduction,4
-448,Introduction,4
-449,Introduction,5
-457,Introduction,3
-538,Introduction,4
-608,Introduction,3
-706,Introduction,2
-1061,Introduction,5
-10415,Introduction,3
-10659,Introduction,5
-11223,Introduction,3
-11743,Introduction,2
-12342,Introduction,3
-230,Data Structures and Libraries,4
-394,Data Structures and Libraries,3
-414,Data Structures and Libraries,2
-467,Data Structures and Libraries,4
-482,Data Structures and Libraries,2
-591,Data Structures and Libraries,1
-665,Data Structures and Libraries,4
-755,Data Structures and Libraries,2
-10038,Data Structures and Libraries,0
-10050,Data Structures and Libraries,1
-10260,Data Structures and Libraries,2
-10978,Data Structures and Libraries,4
-11093,Data Structures and Libraries,4
-11192,Data Structures and Libraries,2
-11222,Data Structures and Libraries,3
-11340,Data Structures and Libraries,2
-11496,Data Structures and Libraries,3
-11608,Data Structures and Libraries,2
-11850,Data Structures and Libraries,3
-12150,Data Structures and Libraries,4
-12356,Data Structures and Libraries,3
-101,Data Structures and Libraries,1
-434,Data Structures and Libraries,4
-466,Data Structures and Libraries,3
-541,Data Structures and Libraries,1
-10016,Data Structures and Libraries,4
-10703,Data Structures and Libraries,3
-10855,Data Structures and Libraries,3
-10920,Data Structures and Libraries,3
-11040,Data Structures and Libraries,3
-11349,Data Structures and Libraries,3
-11360,Data Structures and Libraries,3
-11581,Data Structures and Libraries,3
-11835,Data Structures and Libraries,4
-12187,Data Structures and Libraries,4
-12291,Data Structures and Libraries,5
-12398,Data Structures and Libraries,4
-123,Data Structures and Libraries,2
-146,Data Structures and Libraries,1
-400,Data Structures and Libraries,2
-450,Data Structures and Libraries,3
-790,Data Structures and Libraries,5
-855,Data Structures and Libraries,3
-1209,Data Structures and Libraries,5
-10057,Data Structures and Libraries,3
-10107,Data Structures and Libraries,1
-10194,Data Structures and Libraries,2
-10258,Data Structures and Libraries,2
-10698,Data Structures and Libraries,4
-10880,Data Structures and Libraries,3
-10905,Data Structures and Libraries,2
-11039,Data Structures and Libraries,3
-11321,Data Structures and Libraries,3
-11588,Data Structures and Libraries,3
-11777,Data Structures and Libraries,2
-11824,Data Structures and Libraries,3
-12541,Data Structures and Libraries,3
-594,Data Structures and Libraries,2
-700,Data Structures and Libraries,3
-1241,Data Structures and Libraries,4
-10264,Data Structures and Libraries,3
-11173,Data Structures and Libraries,3
-11760,Data Structures and Libraries,4
-11926,Data Structures and Libraries,3
-11933,Data Structures and Libraries,3
-11988,Data Structures and Libraries,2
-127,Data Structures and Libraries,2
-514,Data Structures and Libraries,2
-732,Data Structures and Libraries,3
-1062,Data Structures and Libraries,3
-10858,Data Structures and Libraries,4
-540,Data Structures and Libraries,2
-10172,Data Structures and Libraries,4
-10901,Data Structures and Libraries,3
-10935,Data Structures and Libraries,2
-11034,Data Structures and Libraries,3
-12100,Data Structures and Libraries,3
-12207,Data Structures and Libraries,4
-417,Data Structures and Libraries,2
-484,Data Structures and Libraries,2
-860,Data Structures and Libraries,4
-939,Data Structures and Libraries,5
-10132,Data Structures and Libraries,3
-10138,Data Structures and Libraries,4
-10226,Data Structures and Libraries,2
-10282,Data Structures and Libraries,2
-10295,Data Structures and Libraries,2
-10686,Data Structures and Libraries,5
-11239,Data Structures and Libraries,3
-11286,Data Structures and Libraries,3
-11308,Data Structures and Libraries,4
-11348,Data Structures and Libraries,4
-11572,Data Structures and Libraries,3
-11629,Data Structures and Libraries,3
-11860,Data Structures and Libraries,5
-11917,Data Structures and Libraries,3
-12504,Data Structures and Libraries,4
-12592,Data Structures and Libraries,3
-501,Data Structures and Libraries,3
-978,Data Structures and Libraries,3
-10815,Data Structures and Libraries,2
-11062,Data Structures and Libraries,3
-11136,Data Structures and Libraries,3
-11849,Data Structures and Libraries,2
-12049,Data Structures and Libraries,3
-1203,Data Structures and Libraries,3
-10954,Data Structures and Libraries,2
-11995,Data Structures and Libraries,2
-599,Data Structures and Libraries,3
-10895,Data Structures and Libraries,3
-10928,Data Structures and Libraries,3
-11550,Data Structures and Libraries,4
-11991,Data Structures and Libraries,2
-793,Data Structures and Libraries,2
-1197,Data Structures and Libraries,4
-10158,Data Structures and Libraries,3
-10227,Data Structures and Libraries,3
-10507,Data Structures and Libraries,3
-10583,Data Structures and Libraries,2
-10608,Data Structures and Libraries,2
-10685,Data Structures and Libraries,3
-11503,Data Structures and Libraries,2
-11690,Data Structures and Libraries,3
-297,Data Structures and Libraries,2
-1232,Data Structures and Libraries,5
-11235,Data Structures and Libraries,3
-11297,Data Structures and Libraries,4
-11350,Data Structures and Libraries,4
-11402,Data Structures and Libraries,3
-12086,Data Structures and Libraries,3
-12532,Data Structures and Libraries,3
-102,Problem Solving Paradigms,0
-256,Problem Solving Paradigms,2
-927,Problem Solving Paradigms,3
-1237,Problem Solving Paradigms,3
-10976,Problem Solving Paradigms,2
-11001,Problem Solving Paradigms,3
-11078,Problem Solving Paradigms,3
-105,Problem Solving Paradigms,1
-347,Problem Solving Paradigms,3
-471,Problem Solving Paradigms,3
-617,Problem Solving Paradigms,4
-725,Problem Solving Paradigms,2
-1260,Problem Solving Paradigms,3
-10041,Problem Solving Paradigms,1
-10487,Problem Solving Paradigms,2
-10730,Problem Solving Paradigms,3
-11242,Problem Solving Paradigms,3
-12488,Problem Solving Paradigms,4
-12583,Problem Solving Paradigms,4
-154,Problem Solving Paradigms,3
-188,Problem Solving Paradigms,3
-441,Problem Solving Paradigms,2
-626,Problem Solving Paradigms,4
-703,Problem Solving Paradigms,4
-735,Problem Solving Paradigms,4
-10102,Problem Solving Paradigms,3
-10502,Problem Solving Paradigms,3
-10662,Problem Solving Paradigms,4
-10908,Problem Solving Paradigms,3
-11059,Problem Solving Paradigms,2
-11975,Problem Solving Paradigms,6
-12498,Problem Solving Paradigms,5
-12515,Problem Solving Paradigms,5
-253,Problem Solving Paradigms,2
-296,Problem Solving Paradigms,4
-386,Problem Solving Paradigms,2
-10125,Problem Solving Paradigms,3
-10177,Problem Solving Paradigms,3
-10360,Problem Solving Paradigms,3
-10365,Problem Solving Paradigms,3
-10483,Problem Solving Paradigms,5
-10660,Problem Solving Paradigms,4
-10973,Problem Solving Paradigms,5
-11108,Problem Solving Paradigms,4
-11236,Problem Solving Paradigms,4
-11342,Problem Solving Paradigms,3
-11548,Problem Solving Paradigms,5
-11565,Problem Solving Paradigms,3
-11804,Problem Solving Paradigms,3
-11959,Problem Solving Paradigms,4
-140,Problem Solving Paradigms,3
-234,Problem Solving Paradigms,5
-435,Problem Solving Paradigms,3
-639,Problem Solving Paradigms,2
-1047,Problem Solving Paradigms,4
-1064,Problem Solving Paradigms,6
-11205,Problem Solving Paradigms,4
-11412,Problem Solving Paradigms,5
-11553,Problem Solving Paradigms,3
-11742,Problem Solving Paradigms,3
-12249,Problem Solving Paradigms,5
-12346,Problem Solving Paradigms,5
-12348,Problem Solving Paradigms,6
-12406,Problem Solving Paradigms,4
-12455,Problem Solving Paradigms,3
-167,Problem Solving Paradigms,2
-380,Problem Solving Paradigms,4
-539,Problem Solving Paradigms,3
-624,Problem Solving Paradigms,2
-628,Problem Solving Paradigms,3
-677,Problem Solving Paradigms,4
-729,Problem Solving Paradigms,2
-750,Problem Solving Paradigms,2
-10276,Problem Solving Paradigms,2
-10344,Problem Solving Paradigms,2
-10452,Problem Solving Paradigms,3
-10576,Problem Solving Paradigms,4
-11085,Problem Solving Paradigms,3
-222,Problem Solving Paradigms,4
-301,Problem Solving Paradigms,3
-331,Problem Solving Paradigms,3
-487,Problem Solving Paradigms,4
-524,Problem Solving Paradigms,2
-571,Problem Solving Paradigms,3
-574,Problem Solving Paradigms,2
-598,Problem Solving Paradigms,4
-775,Problem Solving Paradigms,4
-10001,Problem Solving Paradigms,4
-10063,Problem Solving Paradigms,3
-10460,Problem Solving Paradigms,4
-10475,Problem Solving Paradigms,4
-10503,Problem Solving Paradigms,3
-10506,Problem Solving Paradigms,5
-10950,Problem Solving Paradigms,5
-11201,Problem Solving Paradigms,5
-11961,Problem Solving Paradigms,5
-129,Problem Solving Paradigms,3
-165,Problem Solving Paradigms,4
-193,Problem Solving Paradigms,3
-208,Problem Solving Paradigms,3
-416,Problem Solving Paradigms,3
-433,Problem Solving Paradigms,4
-565,Problem Solving Paradigms,4
-861,Problem Solving Paradigms,3
-868,Problem Solving Paradigms,5
-1262,Problem Solving Paradigms,4
-10094,Problem Solving Paradigms,4
-10128,Problem Solving Paradigms,3
-10582,Problem Solving Paradigms,5
-11090,Problem Solving Paradigms,4
-679,Problem Solving Paradigms,2
-957,Problem Solving Paradigms,3
-10077,Problem Solving Paradigms,2
-10474,Problem Solving Paradigms,1
-10567,Problem Solving Paradigms,3
-10611,Problem Solving Paradigms,2
-10706,Problem Solving Paradigms,3
-10742,Problem Solving Paradigms,4
-11057,Problem Solving Paradigms,2
-11621,Problem Solving Paradigms,4
-11701,Problem Solving Paradigms,5
-11876,Problem Solving Paradigms,3
-12192,Problem Solving Paradigms,4
-10341,Problem Solving Paradigms,2
-11413,Problem Solving Paradigms,3
-11881,Problem Solving Paradigms,5
-11935,Problem Solving Paradigms,4
-12032,Problem Solving Paradigms,3
-12190,Problem Solving Paradigms,5
-183,Problem Solving Paradigms,3
-507,Problem Solving Paradigms,2
-787,Problem Solving Paradigms,3
-10684,Problem Solving Paradigms,2
-10755,Problem Solving Paradigms,3
-108,Problem Solving Paradigms,1
-836,Problem Solving Paradigms,2
-983,Problem Solving Paradigms,4
-10074,Problem Solving Paradigms,2
-10667,Problem Solving Paradigms,3
-10827,Problem Solving Paradigms,3
-11951,Problem Solving Paradigms,4
-111,Problem Solving Paradigms,4
-231,Problem Solving Paradigms,1
-437,Problem Solving Paradigms,2
-481,Problem Solving Paradigms,2
-497,Problem Solving Paradigms,2
-1196,Problem Solving Paradigms,2
-10131,Problem Solving Paradigms,3
-10534,Problem Solving Paradigms,3
-11368,Problem Solving Paradigms,4
-11456,Problem Solving Paradigms,3
-11790,Problem Solving Paradigms,3
-562,Problem Solving Paradigms,2
-990,Problem Solving Paradigms,3
-1213,Problem Solving Paradigms,3
-10130,Problem Solving Paradigms,2
-10261,Problem Solving Paradigms,3
-10616,Problem Solving Paradigms,3
-10664,Problem Solving Paradigms,2
-10819,Problem Solving Paradigms,3
-11003,Problem Solving Paradigms,3
-11341,Problem Solving Paradigms,4
-11566,Problem Solving Paradigms,5
-11658,Problem Solving Paradigms,4
-147,Problem Solving Paradigms,2
-166,Problem Solving Paradigms,3
-357,Problem Solving Paradigms,1
-674,Problem Solving Paradigms,1
-10306,Problem Solving Paradigms,3
-10313,Problem Solving Paradigms,3
-11137,Problem Solving Paradigms,2
-11517,Problem Solving Paradigms,3
-216,Problem Solving Paradigms,2
-10496,Problem Solving Paradigms,3
-11284,Problem Solving Paradigms,4
-116,Problem Solving Paradigms,2
-196,Problem Solving Paradigms,3
-1261,Problem Solving Paradigms,4
-10003,Problem Solving Paradigms,1
-10036,Problem Solving Paradigms,3
-10086,Problem Solving Paradigms,4
-10337,Problem Solving Paradigms,3
-10400,Problem Solving Paradigms,3
-10446,Problem Solving Paradigms,3
-10465,Problem Solving Paradigms,2
-10520,Problem Solving Paradigms,4
-10688,Problem Solving Paradigms,4
-10721,Problem Solving Paradigms,3
-10910,Problem Solving Paradigms,3
-10912,Problem Solving Paradigms,3
-10943,Problem Solving Paradigms,2
-10980,Problem Solving Paradigms,4
-11026,Problem Solving Paradigms,4
-11407,Problem Solving Paradigms,3
-11420,Problem Solving Paradigms,3
-11450,Problem Solving Paradigms,2
-11703,Problem Solving Paradigms,3
-410,Problem Solving Paradigms,3
-1193,Problem Solving Paradigms,5
-10020,Problem Solving Paradigms,3
-10382,Problem Solving Paradigms,3
-11264,Problem Solving Paradigms,3
-11389,Problem Solving Paradigms,2
-12321,Problem Solving Paradigms,4
-12405,Problem Solving Paradigms,3
-10026,Problem Solving Paradigms,2
-10037,Problem Solving Paradigms,3
-10249,Problem Solving Paradigms,3
-10670,Problem Solving Paradigms,3
-10763,Problem Solving Paradigms,2
-10785,Problem Solving Paradigms,3
-11100,Problem Solving Paradigms,3
-11103,Problem Solving Paradigms,4
-11269,Problem Solving Paradigms,5
-11292,Problem Solving Paradigms,2
-11369,Problem Solving Paradigms,2
-11729,Problem Solving Paradigms,3
-11900,Problem Solving Paradigms,2
-12210,Problem Solving Paradigms,3
-12485,Problem Solving Paradigms,4
-311,Problem Solving Paradigms,3
-668,Problem Solving Paradigms,4
-10152,Problem Solving Paradigms,2
-10340,Problem Solving Paradigms,1
-10440,Problem Solving Paradigms,3
-10602,Problem Solving Paradigms,3
-10656,Problem Solving Paradigms,2
-10672,Problem Solving Paradigms,4
-10700,Problem Solving Paradigms,3
-10714,Problem Solving Paradigms,2
-10718,Problem Solving Paradigms,3
-10982,Problem Solving Paradigms,5
-11054,Problem Solving Paradigms,3
-11157,Problem Solving Paradigms,3
-11230,Problem Solving Paradigms,4
-11240,Problem Solving Paradigms,4
-11335,Problem Solving Paradigms,5
-11520,Problem Solving Paradigms,3
-11532,Problem Solving Paradigms,4
-11567,Problem Solving Paradigms,4
-12482,Problem Solving Paradigms,4
-118,Graph,2
-168,Graph,3
-280,Graph,2
-318,Graph,3
-614,Graph,4
-824,Graph,4
-10113,Graph,4
-10116,Graph,3
-10377,Graph,3
-10687,Graph,4
-11831,Graph,3
-11902,Graph,3
-11906,Graph,4
-12376,Graph,4
-12442,Graph,3
-12582,Graph,4
-260,Graph,2
-352,Graph,2
-459,Graph,2
-469,Graph,2
-572,Graph,1
-657,Graph,3
-722,Graph,4
-758,Graph,5
-776,Graph,4
-782,Graph,4
-784,Graph,2
-785,Graph,3
-852,Graph,4
-871,Graph,3
-1103,Graph,4
-10336,Graph,2
-10707,Graph,5
-10946,Graph,3
-11094,Graph,3
-11110,Graph,3
-11244,Graph,3
-11470,Graph,3
-11518,Graph,3
-11561,Graph,4
-11749,Graph,4
-11953,Graph,3
-124,Graph,2
-200,Graph,2
-872,Graph,3
-10305,Graph,1
-11060,Graph,3
-11686,Graph,3
-10004,Graph,1
-10505,Graph,4
-11080,Graph,3
-11396,Graph,3
-315,Graph,2
-610,Graph,3
-796,Graph,3
-10199,Graph,3
-10765,Graph,4
-247,Graph,3
-1229,Graph,5
-10731,Graph,4
-11504,Graph,3
-11709,Graph,3
-11770,Graph,3
-11838,Graph,3
-341,Graph,3
-423,Graph,3
-567,Graph,2
-821,Graph,2
-1233,Graph,6
-1247,Graph,5
-10171,Graph,3
-10354,Graph,4
-10525,Graph,4
-10724,Graph,5
-10793,Graph,4
-10803,Graph,3
-10947,Graph,4
-11015,Graph,3
-11463,Graph,3
-12319,Graph,5
-104,Graph,2
-125,Graph,3
-186,Graph,4
-274,Graph,4
-436,Graph,3
-334,Graph,4
-869,Graph,4
-925,Graph,5
-1056,Graph,4
-1198,Graph,6
-11047,Graph,5
-103,Graph,2
-452,Graph,4
-10000,Graph,2
-10051,Graph,3
-10259,Graph,4
-10285,Graph,2
-10350,Graph,4
-825,Graph,3
-926,Graph,4
-986,Graph,5
-988,Graph,4
-10401,Graph,4
-10926,Graph,3
-11067,Graph,4
-11655,Graph,5
-11957,Graph,4
-590,Graph,3
-907,Graph,4
-910,Graph,4
-10201,Graph,4
-10543,Graph,4
-10681,Graph,4
-10702,Graph,3
-10874,Graph,4
-10913,Graph,4
-11307,Graph,4
-11487,Graph,5
-11545,Graph,5
-11782,Graph,5
-908,Graph,3
-1174,Graph,4
-1208,Graph,4
-1235,Graph,4
-10034,Graph,2
-11228,Graph,3
-11631,Graph,2
-11710,Graph,3
-11733,Graph,3
-11747,Graph,3
-11857,Graph,4
-534,Graph,2
-544,Graph,2
-1160,Graph,4
-1216,Graph,5
-1234,Graph,4
-10048,Graph,2
-10099,Graph,2
-10147,Graph,3
-10369,Graph,2
-10397,Graph,3
-10462,Graph,3
-10600,Graph,3
-10842,Graph,3
-336,Graph,2
-383,Graph,3
-388,Graph,4
-429,Graph,3
-627,Graph,3
-762,Graph,3
-924,Graph,3
-1148,Graph,4
-10009,Graph,3
-10422,Graph,3
-10610,Graph,4
-10653,Graph,2
-10959,Graph,3
-314,Graph,3
-532,Graph,2
-859,Graph,6
-949,Graph,6
-10044,Graph,3
-10067,Graph,2
-10150,Graph,3
-10977,Graph,4
-11049,Graph,4
-11101,Graph,4
-11352,Graph,3
-11624,Graph,3
-11792,Graph,5
-12160,Graph,4
-929,Graph,3
-1112,Graph,3
-10389,Graph,4
-10986,Graph,2
-1202,Graph,6
-10166,Graph,5
-10187,Graph,4
-10278,Graph,3
-10356,Graph,4
-10603,Graph,4
-10801,Graph,3
-10967,Graph,6
-11338,Graph,5
-11367,Graph,4
-11377,Graph,4
-11492,Graph,4
-11833,Graph,5
-12047,Graph,4
-12144,Graph,5
-558,Graph,2
-10449,Graph,4
-10557,Graph,3
-11280,Graph,4
-259,Graph,3
-820,Graph,2
-10092,Graph,3
-10511,Graph,4
-10779,Graph,4
-11045,Graph,3
-11167,Graph,5
-11418,Graph,4
-10330,Graph,3
-10480,Graph,3
-11380,Graph,4
-11506,Graph,3
-12125,Graph,5
-112,Graph,2
-115,Graph,3
-122,Graph,2
-536,Graph,2
-548,Graph,3
-615,Graph,3
-699,Graph,3
-712,Graph,3
-839,Graph,3
-10308,Graph,4
-10459,Graph,4
-10701,Graph,3
-10805,Graph,5
-11131,Graph,5
-11234,Graph,4
-11615,Graph,5
-11695,Graph,5
-12186,Graph,4
-12347,Graph,4
-117,Graph,2
-291,Graph,2
-10054,Graph,3
-10129,Graph,3
-10203,Graph,4
-10596,Graph,4
-663,Graph,4
-670,Graph,4
-753,Graph,4
-1194,Graph,5
-10080,Graph,3
-10349,Graph,4
-11138,Graph,4
-11159,Graph,4
-11419,Graph,4
-12083,Graph,5
-12168,Graph,5
-10055,Mathematics,0
-10071,Mathematics,0
-10281,Mathematics,2
-10469,Mathematics,1
-10773,Mathematics,2
-11614,Mathematics,2
-11723,Mathematics,2
-11805,Mathematics,2
-11875,Mathematics,2
-12149,Mathematics,2
-12502,Mathematics,2
-100,Mathematics,0
-371,Mathematics,2
-382,Mathematics,1
-834,Mathematics,2
-906,Mathematics,5
-1225,Mathematics,2
-10035,Mathematics,1
-10346,Mathematics,1
-10370,Mathematics,1
-10783,Mathematics,0
-10879,Mathematics,2
-11150,Mathematics,1
-11247,Mathematics,4
-11313,Mathematics,3
-11689,Mathematics,2
-11877,Mathematics,2
-11934,Mathematics,2
-12290,Mathematics,4
-12527,Mathematics,3
-493,Mathematics,4
-550,Mathematics,3
-616,Mathematics,3
-697,Mathematics,5
-846,Mathematics,2
-10025,Mathematics,3
-10257,Mathematics,4
-10624,Mathematics,4
-11130,Mathematics,4
-11254,Mathematics,4
-11968,Mathematics,5
-10014,Mathematics,3
-10170,Mathematics,2
-10499,Mathematics,2
-10696,Mathematics,1
-10751,Mathematics,4
-10940,Mathematics,3
-11202,Mathematics,4
-12004,Mathematics,4
-12027,Mathematics,5
-651,Mathematics,4
-913,Mathematics,2
-10161,Mathematics,2
-10493,Mathematics,4
-10509,Mathematics,3
-10666,Mathematics,4
-10693,Mathematics,3
-10710,Mathematics,5
-10882,Mathematics,5
-10970,Mathematics,1
-10994,Mathematics,3
-11231,Mathematics,3
-11246,Mathematics,4
-11296,Mathematics,4
-11298,Mathematics,5
-11387,Mathematics,4
-11393,Mathematics,5
-264,Mathematics,1
-808,Mathematics,4
-880,Mathematics,3
-10182,Mathematics,3
-10233,Mathematics,4
-10620,Mathematics,4
-10642,Mathematics,3
-10964,Mathematics,5
-136,Mathematics,1
-138,Mathematics,2
-413,Mathematics,3
-443,Mathematics,2
-640,Mathematics,2
-694,Mathematics,1
-962,Mathematics,4
-974,Mathematics,3
-10006,Mathematics,2
-10042,Mathematics,2
-10049,Mathematics,3
-10101,Mathematics,3
-10408,Mathematics,3
-10930,Mathematics,3
-11028,Mathematics,5
-11063,Mathematics,3
-11461,Mathematics,1
-11660,Mathematics,5
-11970,Mathematics,4
-107,Mathematics,2
-113,Mathematics,1
-474,Mathematics,3
-545,Mathematics,4
-701,Mathematics,3
-1185,Mathematics,3
-10916,Mathematics,3
-11384,Mathematics,3
-11556,Mathematics,4
-11636,Mathematics,1
-11666,Mathematics,4
-11714,Mathematics,4
-11847,Mathematics,4
-11986,Mathematics,4
-12416,Mathematics,4
-126,Mathematics,3
-392,Mathematics,2
-498,Mathematics,3
-10215,Mathematics,4
-10268,Mathematics,3
-10302,Mathematics,1
-10326,Mathematics,4
-10586,Mathematics,4
-10719,Mathematics,3
-11692,Mathematics,5
-377,Mathematics,3
-575,Mathematics,1
-636,Mathematics,3
-10093,Mathematics,3
-10677,Mathematics,4
-10931,Mathematics,2
-11005,Mathematics,3
-11121,Mathematics,3
-11398,Mathematics,4
-12602,Mathematics,3
-276,Mathematics,5
-496,Mathematics,2
-613,Mathematics,4
-10137,Mathematics,2
-10190,Mathematics,2
-11055,Mathematics,5
-11241,Mathematics,4
-11526,Mathematics,3
-11715,Mathematics,2
-11816,Mathematics,6
-12036,Mathematics,4
-542,Mathematics,3
-10056,Mathematics,3
-10218,Mathematics,5
-10238,Mathematics,5
-10328,Mathematics,4
-10491,Mathematics,3
-10759,Mathematics,4
-10777,Mathematics,5
-11021,Mathematics,4
-11176,Mathematics,5
-11181,Mathematics,4
-11346,Mathematics,4
-11500,Mathematics,4
-11628,Mathematics,4
-12024,Mathematics,4
-12114,Mathematics,4
-12457,Mathematics,5
-12461,Mathematics,3
-202,Mathematics,2
-275,Mathematics,3
-350,Mathematics,2
-944,Mathematics,4
-10162,Mathematics,3
-10515,Mathematics,2
-10591,Mathematics,2
-11036,Mathematics,5
-11053,Mathematics,4
-11549,Mathematics,3
-11634,Mathematics,4
-12464,Mathematics,5
-847,Mathematics,2
-10111,Mathematics,4
-10165,Mathematics,3
-10368,Mathematics,3
-10404,Mathematics,3
-10578,Mathematics,4
-11311,Mathematics,4
-11489,Mathematics,3
-12293,Mathematics,4
-12469,Mathematics,5
-424,Mathematics,1
-465,Mathematics,2
-619,Mathematics,3
-713,Mathematics,2
-748,Mathematics,2
-1226,Mathematics,4
-10013,Mathematics,2
-10083,Mathematics,4
-10106,Mathematics,1
-10198,Mathematics,2
-10430,Mathematics,5
-10433,Mathematics,4
-10494,Mathematics,2
-10519,Mathematics,3
-10523,Mathematics,2
-10669,Mathematics,4
-10925,Mathematics,3
-10992,Mathematics,4
-11448,Mathematics,3
-11664,Mathematics,6
-11830,Mathematics,3
-11879,Mathematics,2
-12143,Mathematics,6
-12459,Mathematics,3
-290,Mathematics,4
-343,Mathematics,2
-355,Mathematics,2
-389,Mathematics,2
-446,Mathematics,2
-10473,Mathematics,2
-10551,Mathematics,3
-11185,Mathematics,2
-11952,Mathematics,5
-960,Mathematics,5
-1210,Mathematics,3
-10235,Mathematics,2
-10924,Mathematics,1
-11287,Mathematics,4
-12542,Mathematics,4
-1230,Mathematics,3
-10023,Mathematics,3
-10193,Mathematics,2
-10464,Mathematics,4
-10814,Mathematics,3
-11821,Mathematics,4
-495,Mathematics,1
-580,Mathematics,3
-763,Mathematics,3
-900,Mathematics,2
-948,Mathematics,3
-1258,Mathematics,6
-10183,Mathematics,2
-10334,Mathematics,2
-10450,Mathematics,2
-10497,Mathematics,4
-10579,Mathematics,2
-10689,Mathematics,3
-10862,Mathematics,3
-11000,Mathematics,2
-11089,Mathematics,4
-11161,Mathematics,4
-11780,Mathematics,4
-326,Mathematics,3
-369,Mathematics,1
-485,Mathematics,3
-530,Mathematics,2
-911,Mathematics,5
-10105,Mathematics,2
-10219,Mathematics,2
-10375,Mathematics,3
-10532,Mathematics,4
-10541,Mathematics,4
-11955,Mathematics,4
-991,Mathematics,3
-10007,Mathematics,3
-10223,Mathematics,3
-10303,Mathematics,3
-10312,Mathematics,4
-10643,Mathematics,5
-11115,Mathematics,3
-11310,Mathematics,3
-11401,Mathematics,3
-11480,Mathematics,4
-11597,Mathematics,3
-11609,Mathematics,4
-12463,Mathematics,4
-1224,Mathematics,5
-10079,Mathematics,1
-10359,Mathematics,3
-10733,Mathematics,4
-10784,Mathematics,2
-10790,Mathematics,3
-10918,Mathematics,3
-11069,Mathematics,3
-11204,Mathematics,4
-11270,Mathematics,5
-11538,Mathematics,3
-11554,Mathematics,4
-12022,Mathematics,5
-406,Mathematics,2
-543,Mathematics,1
-686,Mathematics,1
-897,Mathematics,3
-914,Mathematics,3
-10140,Mathematics,3
-10168,Mathematics,2
-10311,Mathematics,3
-10394,Mathematics,2
-10490,Mathematics,3
-10650,Mathematics,3
-10852,Mathematics,3
-10948,Mathematics,3
-11752,Mathematics,4
-106,Mathematics,2
-332,Mathematics,3
-408,Mathematics,2
-412,Mathematics,2
-10407,Mathematics,3
-10892,Mathematics,3
-11388,Mathematics,2
-11417,Mathematics,2
-11774,Mathematics,4
-11827,Mathematics,2
-12068,Mathematics,4
-324,Mathematics,2
-568,Mathematics,2
-623,Mathematics,2
-10220,Mathematics,2
-10323,Mathematics,2
-10338,Mathematics,2
-516,Mathematics,3
-583,Mathematics,2
-10392,Mathematics,3
-11466,Mathematics,3
-160,Mathematics,1
-993,Mathematics,2
-10061,Mathematics,3
-10139,Mathematics,2
-10484,Mathematics,4
-10527,Mathematics,4
-10622,Mathematics,3
-10680,Mathematics,3
-10780,Mathematics,3
-10791,Mathematics,3
-11347,Mathematics,4
-11395,Mathematics,5
-11889,Mathematics,3
-294,Mathematics,2
-884,Mathematics,3
-1246,Mathematics,4
-10179,Mathematics,2
-10299,Mathematics,3
-10820,Mathematics,3
-10958,Mathematics,5
-11064,Mathematics,3
-11086,Mathematics,4
-11226,Mathematics,4
-11353,Mathematics,4
-11728,Mathematics,3
-12005,Mathematics,5
-10699,Mathematics,2
-10738,Mathematics,3
-10990,Mathematics,4
-11327,Mathematics,4
-12043,Mathematics,4
-128,Mathematics,2
-374,Mathematics,1
-10127,Mathematics,1
-10174,Mathematics,4
-10176,Mathematics,3
-10212,Mathematics,3
-10489,Mathematics,3
-11029,Mathematics,4
-10090,Mathematics,3
-10104,Mathematics,2
-10633,Mathematics,3
-10673,Mathematics,3
-547,Mathematics,4
-756,Mathematics,4
-10110,Mathematics,1
-10922,Mathematics,2
-10929,Mathematics,1
-11042,Mathematics,4
-11344,Mathematics,3
-11371,Mathematics,3
-245,String Processing,4
-306,String Processing,3
-444,String Processing,2
-458,String Processing,0
-483,String Processing,1
-492,String Processing,2
-641,String Processing,3
-739,String Processing,3
-795,String Processing,5
-865,String Processing,4
-10019,String Processing,1
-10222,String Processing,1
-10851,String Processing,4
-10878,String Processing,2
-10896,String Processing,4
-10921,String Processing,1
-11220,String Processing,3
-11278,String Processing,4
-11541,String Processing,2
-11716,String Processing,2
-11787,String Processing,4
-11946,String Processing,3
-213,String Processing,3
-468,String Processing,4
-554,String Processing,4
-632,String Processing,4
-726,String Processing,5
-740,String Processing,3
-741,String Processing,4
-850,String Processing,3
-856,String Processing,5
-11385,String Processing,3
-11697,String Processing,5
-499,String Processing,1
-895,String Processing,3
-902,String Processing,3
-10008,String Processing,1
-10062,String Processing,2
-10252,String Processing,2
-10293,String Processing,3
-10374,String Processing,3
-10420,String Processing,1
-10625,String Processing,4
-10789,String Processing,2
-11203,String Processing,4
-11577,String Processing,2
-271,String Processing,3
-327,String Processing,3
-391,String Processing,4
-397,String Processing,4
-442,String Processing,2
-486,String Processing,3
-537,String Processing,2
-1200,String Processing,5
-10906,String Processing,5
-11148,String Processing,5
-11357,String Processing,5
-11878,String Processing,3
-12543,String Processing,4
-384,String Processing,3
-464,String Processing,5
-620,String Processing,3
-622,String Processing,4
-743,String Processing,4
-10854,String Processing,5
-11070,String Processing,5
-11291,String Processing,5
-325,String Processing,3
-494,String Processing,0
-576,String Processing,2
-10058,String Processing,4
-719,String Processing,3
-760,String Processing,4
-1223,String Processing,4
-1254,String Processing,6
-11107,String Processing,4
-11512,String Processing,3
-110,String Processing,3
-159,String Processing,4
-320,String Processing,3
-330,String Processing,5
-338,String Processing,4
-373,String Processing,6
-426,String Processing,5
-445,String Processing,1
-488,String Processing,1
-490,String Processing,1
-570,String Processing,5
-645,String Processing,5
-890,String Processing,6
-1219,String Processing,6
-10333,String Processing,5
-10500,String Processing,4
-10761,String Processing,5
-10800,String Processing,3
-10875,String Processing,5
-10894,String Processing,4
-11074,String Processing,3
-11482,String Processing,5
-11965,String Processing,3
-12155,String Processing,6
-12364,String Processing,4
-409,String Processing,2
-644,String Processing,2
-671,String Processing,4
-912,String Processing,6
-11048,String Processing,4
-11056,String Processing,4
-11233,String Processing,3
-11713,String Processing,2
-11734,String Processing,3
-153,String Processing,3
-263,String Processing,3
-892,String Processing,4
-941,String Processing,3
-1215,String Processing,5
-1239,String Processing,5
-10115,String Processing,3
-10126,String Processing,4
-10197,String Processing,4
-10361,String Processing,2
-10391,String Processing,3
-10393,String Processing,4
-10508,String Processing,3
-10679,String Processing,3
-11452,String Processing,4
-11483,String Processing,4
-11839,String Processing,3
-11962,String Processing,5
-12243,String Processing,3
-12414,String Processing,5
-455,String Processing,2
-886,String Processing,6
-10298,String Processing,2
-11362,String Processing,3
-11475,String Processing,3
-11576,String Processing,4
-11888,String Processing,4
-12467,String Processing,4
-422,String Processing,3
-604,String Processing,4
-736,String Processing,5
-10010,String Processing,2
-11283,String Processing,4
-164,String Processing,3
-526,String Processing,3
-531,String Processing,2
-1207,String Processing,4
-10066,String Processing,2
-10100,String Processing,3
-10192,String Processing,2
-10405,String Processing,1
-10635,String Processing,3
-10739,String Processing,3
-257,String Processing,4
-10453,String Processing,3
-10617,String Processing,3
-11022,String Processing,4
-11151,String Processing,2
-11258,String Processing,4
-11552,String Processing,4
-152,(Computational) Geometry,3
-191,(Computational) Geometry,2
-378,(Computational) Geometry,2
-587,(Computational) Geometry,3
-833,(Computational) Geometry,4
-837,(Computational) Geometry,3
-920,(Computational) Geometry,3
-1249,(Computational) Geometry,5
-10242,(Computational) Geometry,3
-10250,(Computational) Geometry,3
-10263,(Computational) Geometry,3
-10357,(Computational) Geometry,5
-10466,(Computational) Geometry,4
-10585,(Computational) Geometry,4
-10832,(Computational) Geometry,5
-10865,(Computational) Geometry,4
-10902,(Computational) Geometry,4
-10927,(Computational) Geometry,4
-11068,(Computational) Geometry,3
-11343,(Computational) Geometry,4
-11505,(Computational) Geometry,4
-11519,(Computational) Geometry,5
-11894,(Computational) Geometry,5
-121,(Computational) Geometry,3
-143,(Computational) Geometry,4
-190,(Computational) Geometry,2
-375,(Computational) Geometry,4
-438,(Computational) Geometry,2
-10195,(Computational) Geometry,2
-10210,(Computational) Geometry,4
-10286,(Computational) Geometry,2
-10347,(Computational) Geometry,2
-10387,(Computational) Geometry,3
-10522,(Computational) Geometry,4
-10577,(Computational) Geometry,4
-10792,(Computational) Geometry,4
-10991,(Computational) Geometry,3
-11152,(Computational) Geometry,2
-11164,(Computational) Geometry,5
-11281,(Computational) Geometry,5
-11326,(Computational) Geometry,5
-11437,(Computational) Geometry,4
-11479,(Computational) Geometry,2
-11579,(Computational) Geometry,4
-11854,(Computational) Geometry,1
-11909,(Computational) Geometry,3
-11936,(Computational) Geometry,2
-1388,(Computational) Geometry,4
-10005,(Computational) Geometry,3
-10136,(Computational) Geometry,4
-10180,(Computational) Geometry,4
-10209,(Computational) Geometry,2
-10221,(Computational) Geometry,2
-10283,(Computational) Geometry,4
-10432,(Computational) Geometry,2
-10451,(Computational) Geometry,3
-10573,(Computational) Geometry,3
-10589,(Computational) Geometry,3
-10678,(Computational) Geometry,3
-12578,(Computational) Geometry,2
-155,(Computational) Geometry,3
-460,(Computational) Geometry,3
-476,(Computational) Geometry,2
-477,(Computational) Geometry,2
-11207,(Computational) Geometry,3
-11345,(Computational) Geometry,4
-11455,(Computational) Geometry,2
-11639,(Computational) Geometry,4
-11800,(Computational) Geometry,4
-11834,(Computational) Geometry,4
-12256,(Computational) Geometry,5
-737,(Computational) Geometry,3
-815,(Computational) Geometry,3
-10297,(Computational) Geometry,3
-109,(Computational) Geometry,3
-137,(Computational) Geometry,4
-218,(Computational) Geometry,3
-361,(Computational) Geometry,5
-478,(Computational) Geometry,2
-596,(Computational) Geometry,6
-634,(Computational) Geometry,3
-681,(Computational) Geometry,3
-858,(Computational) Geometry,5
-1111,(Computational) Geometry,4
-1206,(Computational) Geometry,6
-10002,(Computational) Geometry,3
-10060,(Computational) Geometry,4
-10065,(Computational) Geometry,3
-10112,(Computational) Geometry,3
-10406,(Computational) Geometry,4
-10652,(Computational) Geometry,4
-11096,(Computational) Geometry,4
-11265,(Computational) Geometry,5
-11447,(Computational) Geometry,5
-11473,(Computational) Geometry,5
-11626,(Computational) Geometry,4
+Problem Number, Problem ID, Category,Difficulty Level
+272,208,Introduction,0
+1124,3565,Introduction,1
+10550,1491,Introduction,1
+11044,1985,Introduction,1
+11172,2113,Introduction,0
+11364,2349,Introduction,1
+11498,2493,Introduction,1
+11547,2542,Introduction,1
+11727,2827,Introduction,1
+12250,3402,Introduction,2
+12279,3431,Introduction,2
+12289,3710,Introduction,1
+12372,3794,Introduction,1
+12403,3834,Introduction,2
+12577,4022,Introduction,1
+621,562,Introduction,2
+10114,1055,Introduction,2
+10300,1241,Introduction,0
+10963,1904,Introduction,3
+11332,2307,Introduction,1
+11559,2595,Introduction,1
+11679,2726,Introduction,3
+11764,2864,Introduction,1
+11799,2899,Introduction,1
+11942,3093,Introduction,2
+12015,3166,Introduction,2
+12157,3309,Introduction,2
+12468,3912,Introduction,2
+12503,3947,Introduction,2
+12554,3999,Introduction,2
+119,55,Introduction,2
+573,514,Introduction,1
+661,602,Introduction,2
+10141,1082,Introduction,2
+10324,1265,Introduction,2
+10424,1365,Introduction,1
+10919,1860,Introduction,3
+11507,2502,Introduction,3
+11586,2633,Introduction,3
+11661,2708,Introduction,2
+11683,2730,Introduction,3
+11687,2734,Introduction,3
+11956,3107,Introduction,4
+12478,3922,Introduction,3
+170,106,Introduction,3
+300,236,Introduction,3
+579,520,Introduction,1
+893,834,Introduction,3
+10070,1011,Introduction,2
+10339,1280,Introduction,4
+10371,1312,Introduction,4
+10683,1624,Introduction,3
+11219,2160,Introduction,2
+11356,2341,Introduction,4
+11650,2697,Introduction,3
+11677,2724,Introduction,2
+11947,3098,Introduction,3
+11958,3109,Introduction,4
+12019,3170,Introduction,3
+12136,3288,Introduction,3
+12148,3300,Introduction,5
+12439,3870,Introduction,4
+12531,3976,Introduction,3
+144,80,Introduction,3
+214,150,Introduction,6
+335,271,Introduction,5
+337,273,Introduction,3
+349,285,Introduction,4
+381,317,Introduction,4
+405,346,Introduction,5
+556,497,Introduction,3
+603,544,Introduction,4
+830,771,Introduction,5
+945,886,Introduction,6
+10033,974,Introduction,2
+10134,1075,Introduction,5
+10142,1083,Introduction,2
+10188,1129,Introduction,3
+10267,1208,Introduction,2
+10961,1902,Introduction,6
+11140,2081,Introduction,5
+11717,2764,Introduction,5
+12060,3212,Introduction,4
+12085,3237,Introduction,4
+12608,4286,Introduction,5
+162,98,Introduction,4
+462,403,Introduction,3
+555,496,Introduction,3
+10205,1146,Introduction,3
+10315,1256,Introduction,3
+10646,1587,Introduction,3
+11225,2166,Introduction,4
+11678,2725,Introduction,4
+12247,3399,Introduction,3
+255,191,Introduction,3
+278,214,Introduction,2
+696,637,Introduction,3
+10196,1137,Introduction,2
+10284,1225,Introduction,3
+10849,1790,Introduction,3
+11494,2489,Introduction,2
+340,276,Introduction,2
+489,430,Introduction,2
+947,888,Introduction,5
+10189,1130,Introduction,1
+10279,1220,Introduction,3
+10409,1350,Introduction,2
+10530,1471,Introduction,2
+11459,2454,Introduction,3
+12239,3391,Introduction,4
+114,50,Introduction,3
+141,77,Introduction,3
+220,156,Introduction,4
+227,163,Introduction,3
+232,168,Introduction,3
+339,275,Introduction,4
+379,315,Introduction,4
+584,525,Introduction,3
+647,588,Introduction,4
+10363,1304,Introduction,3
+10443,1384,Introduction,3
+10813,1754,Introduction,3
+10903,1844,Introduction,3
+353,289,Introduction,3
+401,342,Introduction,1
+10018,959,Introduction,1
+10945,1886,Introduction,2
+11221,2162,Introduction,3
+11309,2284,Introduction,4
+148,84,Introduction,4
+156,92,Introduction,2
+195,131,Introduction,2
+454,395,Introduction,3
+630,571,Introduction,3
+642,583,Introduction,3
+10098,1039,Introduction,2
+161,97,Introduction,3
+187,123,Introduction,4
+362,298,Introduction,3
+637,578,Introduction,3
+857,798,Introduction,5
+10082,1023,Introduction,1
+10191,1132,Introduction,2
+10528,1469,Introduction,4
+10554,1495,Introduction,4
+10812,1753,Introduction,1
+11530,2525,Introduction,2
+11945,3096,Introduction,4
+11984,3135,Introduction,2
+12195,3347,Introduction,3
+12555,4000,Introduction,4
+139,75,Introduction,4
+145,81,Introduction,3
+333,269,Introduction,3
+346,282,Introduction,4
+403,344,Introduction,4
+447,388,Introduction,4
+448,389,Introduction,4
+449,390,Introduction,5
+457,398,Introduction,3
+538,479,Introduction,4
+608,549,Introduction,3
+706,647,Introduction,2
+1061,3502,Introduction,5
+10415,1356,Introduction,3
+10659,1600,Introduction,5
+11223,2164,Introduction,3
+11743,2843,Introduction,2
+12342,3764,Introduction,3
+230,166,Data Structures and Libraries,4
+394,330,Data Structures and Libraries,3
+414,355,Data Structures and Libraries,2
+467,408,Data Structures and Libraries,4
+482,423,Data Structures and Libraries,2
+591,532,Data Structures and Libraries,1
+665,606,Data Structures and Libraries,4
+755,696,Data Structures and Libraries,2
+10038,979,Data Structures and Libraries,0
+10050,991,Data Structures and Libraries,1
+10260,1201,Data Structures and Libraries,2
+10978,1919,Data Structures and Libraries,4
+11093,2034,Data Structures and Libraries,4
+11192,2133,Data Structures and Libraries,2
+11222,2163,Data Structures and Libraries,3
+11340,2315,Data Structures and Libraries,2
+11496,2491,Data Structures and Libraries,3
+11608,2655,Data Structures and Libraries,2
+11850,2950,Data Structures and Libraries,3
+12150,3302,Data Structures and Libraries,4
+12356,3778,Data Structures and Libraries,3
+101,37,Data Structures and Libraries,1
+434,375,Data Structures and Libraries,4
+466,407,Data Structures and Libraries,3
+541,482,Data Structures and Libraries,1
+10016,957,Data Structures and Libraries,4
+10703,1644,Data Structures and Libraries,3
+10855,1796,Data Structures and Libraries,3
+10920,1861,Data Structures and Libraries,3
+11040,1981,Data Structures and Libraries,3
+11349,2324,Data Structures and Libraries,3
+11360,2345,Data Structures and Libraries,3
+11581,2628,Data Structures and Libraries,3
+11835,2935,Data Structures and Libraries,4
+12187,3339,Data Structures and Libraries,4
+12291,3712,Data Structures and Libraries,5
+12398,3829,Data Structures and Libraries,4
+123,59,Data Structures and Libraries,2
+146,82,Data Structures and Libraries,1
+400,341,Data Structures and Libraries,2
+450,391,Data Structures and Libraries,3
+790,731,Data Structures and Libraries,5
+855,796,Data Structures and Libraries,3
+1209,3650,Data Structures and Libraries,5
+10057,998,Data Structures and Libraries,3
+10107,1048,Data Structures and Libraries,1
+10194,1135,Data Structures and Libraries,2
+10258,1199,Data Structures and Libraries,2
+10698,1639,Data Structures and Libraries,4
+10880,1821,Data Structures and Libraries,3
+10905,1846,Data Structures and Libraries,2
+11039,1980,Data Structures and Libraries,3
+11321,2296,Data Structures and Libraries,3
+11588,2635,Data Structures and Libraries,3
+11777,2877,Data Structures and Libraries,2
+11824,2924,Data Structures and Libraries,3
+12541,3986,Data Structures and Libraries,3
+594,535,Data Structures and Libraries,2
+700,641,Data Structures and Libraries,3
+1241,3682,Data Structures and Libraries,4
+10264,1205,Data Structures and Libraries,3
+11173,2114,Data Structures and Libraries,3
+11760,2860,Data Structures and Libraries,4
+11926,3077,Data Structures and Libraries,3
+11933,3084,Data Structures and Libraries,3
+11988,3139,Data Structures and Libraries,2
+127,63,Data Structures and Libraries,2
+514,455,Data Structures and Libraries,2
+732,673,Data Structures and Libraries,3
+1062,3503,Data Structures and Libraries,3
+10858,1799,Data Structures and Libraries,4
+540,481,Data Structures and Libraries,2
+10172,1113,Data Structures and Libraries,4
+10901,1842,Data Structures and Libraries,3
+10935,1876,Data Structures and Libraries,2
+11034,1975,Data Structures and Libraries,3
+12100,3252,Data Structures and Libraries,3
+12207,3359,Data Structures and Libraries,4
+417,358,Data Structures and Libraries,2
+484,425,Data Structures and Libraries,2
+860,801,Data Structures and Libraries,4
+939,880,Data Structures and Libraries,5
+10132,1073,Data Structures and Libraries,3
+10138,1079,Data Structures and Libraries,4
+10226,1167,Data Structures and Libraries,2
+10282,1223,Data Structures and Libraries,2
+10295,1236,Data Structures and Libraries,2
+10686,1627,Data Structures and Libraries,5
+11239,2180,Data Structures and Libraries,3
+11286,2261,Data Structures and Libraries,3
+11308,2283,Data Structures and Libraries,4
+11348,2323,Data Structures and Libraries,4
+11572,2619,Data Structures and Libraries,3
+11629,2676,Data Structures and Libraries,3
+11860,2960,Data Structures and Libraries,5
+11917,3068,Data Structures and Libraries,3
+12504,3948,Data Structures and Libraries,4
+12592,4270,Data Structures and Libraries,3
+501,442,Data Structures and Libraries,3
+978,919,Data Structures and Libraries,3
+10815,1756,Data Structures and Libraries,2
+11062,2003,Data Structures and Libraries,3
+11136,2077,Data Structures and Libraries,3
+11849,2949,Data Structures and Libraries,2
+12049,3200,Data Structures and Libraries,3
+1203,3644,Data Structures and Libraries,3
+10954,1895,Data Structures and Libraries,2
+11995,3146,Data Structures and Libraries,2
+599,540,Data Structures and Libraries,3
+10895,1836,Data Structures and Libraries,3
+10928,1869,Data Structures and Libraries,3
+11550,2545,Data Structures and Libraries,4
+11991,3142,Data Structures and Libraries,2
+793,734,Data Structures and Libraries,2
+1197,3638,Data Structures and Libraries,4
+10158,1099,Data Structures and Libraries,3
+10227,1168,Data Structures and Libraries,3
+10507,1448,Data Structures and Libraries,3
+10583,1524,Data Structures and Libraries,2
+10608,1549,Data Structures and Libraries,2
+10685,1626,Data Structures and Libraries,3
+11503,2498,Data Structures and Libraries,2
+11690,2737,Data Structures and Libraries,3
+297,233,Data Structures and Libraries,2
+1232,3673,Data Structures and Libraries,5
+11235,2176,Data Structures and Libraries,3
+11297,2272,Data Structures and Libraries,4
+11350,2325,Data Structures and Libraries,4
+11402,2397,Data Structures and Libraries,3
+12086,3238,Data Structures and Libraries,3
+12532,3977,Data Structures and Libraries,3
+102,38,Problem Solving Paradigms,0
+256,192,Problem Solving Paradigms,2
+927,868,Problem Solving Paradigms,3
+1237,3678,Problem Solving Paradigms,3
+10976,1917,Problem Solving Paradigms,2
+11001,1942,Problem Solving Paradigms,3
+11078,2019,Problem Solving Paradigms,3
+105,41,Problem Solving Paradigms,1
+347,283,Problem Solving Paradigms,3
+471,412,Problem Solving Paradigms,3
+617,558,Problem Solving Paradigms,4
+725,666,Problem Solving Paradigms,2
+1260,3701,Problem Solving Paradigms,3
+10041,982,Problem Solving Paradigms,1
+10487,1428,Problem Solving Paradigms,2
+10730,1671,Problem Solving Paradigms,3
+11242,2183,Problem Solving Paradigms,3
+12488,3932,Problem Solving Paradigms,4
+12583,4028,Problem Solving Paradigms,4
+154,90,Problem Solving Paradigms,3
+188,124,Problem Solving Paradigms,3
+441,382,Problem Solving Paradigms,2
+626,567,Problem Solving Paradigms,4
+703,644,Problem Solving Paradigms,4
+735,676,Problem Solving Paradigms,4
+10102,1043,Problem Solving Paradigms,3
+10502,1443,Problem Solving Paradigms,3
+10662,1603,Problem Solving Paradigms,4
+10908,1849,Problem Solving Paradigms,3
+11059,2000,Problem Solving Paradigms,2
+11975,3126,Problem Solving Paradigms,6
+12498,3942,Problem Solving Paradigms,5
+12515,3960,Problem Solving Paradigms,5
+253,189,Problem Solving Paradigms,2
+296,232,Problem Solving Paradigms,4
+386,322,Problem Solving Paradigms,2
+10125,1066,Problem Solving Paradigms,3
+10177,1118,Problem Solving Paradigms,3
+10360,1301,Problem Solving Paradigms,3
+10365,1306,Problem Solving Paradigms,3
+10483,1424,Problem Solving Paradigms,5
+10660,1601,Problem Solving Paradigms,4
+10973,1914,Problem Solving Paradigms,5
+11108,2049,Problem Solving Paradigms,4
+11236,2177,Problem Solving Paradigms,4
+11342,2317,Problem Solving Paradigms,3
+11548,2543,Problem Solving Paradigms,5
+11565,2612,Problem Solving Paradigms,3
+11804,2904,Problem Solving Paradigms,3
+11959,3110,Problem Solving Paradigms,4
+140,76,Problem Solving Paradigms,3
+234,170,Problem Solving Paradigms,5
+435,376,Problem Solving Paradigms,3
+639,580,Problem Solving Paradigms,2
+1047,3488,Problem Solving Paradigms,4
+1064,3505,Problem Solving Paradigms,6
+11205,2146,Problem Solving Paradigms,4
+11412,2407,Problem Solving Paradigms,5
+11553,2548,Problem Solving Paradigms,3
+11742,2842,Problem Solving Paradigms,3
+12249,3401,Problem Solving Paradigms,5
+12346,3768,Problem Solving Paradigms,5
+12348,3770,Problem Solving Paradigms,6
+12406,3837,Problem Solving Paradigms,4
+12455,3886,Problem Solving Paradigms,3
+167,103,Problem Solving Paradigms,2
+380,316,Problem Solving Paradigms,4
+539,480,Problem Solving Paradigms,3
+624,565,Problem Solving Paradigms,2
+628,569,Problem Solving Paradigms,3
+677,618,Problem Solving Paradigms,4
+729,670,Problem Solving Paradigms,2
+750,691,Problem Solving Paradigms,2
+10276,1217,Problem Solving Paradigms,2
+10344,1285,Problem Solving Paradigms,2
+10452,1393,Problem Solving Paradigms,3
+10576,1517,Problem Solving Paradigms,4
+11085,2026,Problem Solving Paradigms,3
+222,158,Problem Solving Paradigms,4
+301,237,Problem Solving Paradigms,3
+331,267,Problem Solving Paradigms,3
+487,428,Problem Solving Paradigms,4
+524,465,Problem Solving Paradigms,2
+571,512,Problem Solving Paradigms,3
+574,515,Problem Solving Paradigms,2
+598,539,Problem Solving Paradigms,4
+775,716,Problem Solving Paradigms,4
+10001,942,Problem Solving Paradigms,4
+10063,1004,Problem Solving Paradigms,3
+10460,1401,Problem Solving Paradigms,4
+10475,1416,Problem Solving Paradigms,4
+10503,1444,Problem Solving Paradigms,3
+10506,1447,Problem Solving Paradigms,5
+10950,1891,Problem Solving Paradigms,5
+11201,2142,Problem Solving Paradigms,5
+11961,3112,Problem Solving Paradigms,5
+129,65,Problem Solving Paradigms,3
+165,101,Problem Solving Paradigms,4
+193,129,Problem Solving Paradigms,3
+208,144,Problem Solving Paradigms,3
+416,357,Problem Solving Paradigms,3
+433,374,Problem Solving Paradigms,4
+565,506,Problem Solving Paradigms,4
+861,802,Problem Solving Paradigms,3
+868,809,Problem Solving Paradigms,5
+1262,3703,Problem Solving Paradigms,4
+10094,1035,Problem Solving Paradigms,4
+10128,1069,Problem Solving Paradigms,3
+10582,1523,Problem Solving Paradigms,5
+11090,2031,Problem Solving Paradigms,4
+679,620,Problem Solving Paradigms,2
+957,898,Problem Solving Paradigms,3
+10077,1018,Problem Solving Paradigms,2
+10474,1415,Problem Solving Paradigms,1
+10567,1508,Problem Solving Paradigms,3
+10611,1552,Problem Solving Paradigms,2
+10706,1647,Problem Solving Paradigms,3
+10742,1683,Problem Solving Paradigms,4
+11057,1998,Problem Solving Paradigms,2
+11621,2668,Problem Solving Paradigms,4
+11701,2748,Problem Solving Paradigms,5
+11876,2987,Problem Solving Paradigms,3
+12192,3344,Problem Solving Paradigms,4
+10341,1282,Problem Solving Paradigms,2
+11413,2408,Problem Solving Paradigms,3
+11881,3003,Problem Solving Paradigms,5
+11935,3086,Problem Solving Paradigms,4
+12032,3183,Problem Solving Paradigms,3
+12190,3342,Problem Solving Paradigms,5
+183,119,Problem Solving Paradigms,3
+507,448,Problem Solving Paradigms,2
+787,728,Problem Solving Paradigms,3
+10684,1625,Problem Solving Paradigms,2
+10755,1696,Problem Solving Paradigms,3
+108,44,Problem Solving Paradigms,1
+836,777,Problem Solving Paradigms,2
+983,924,Problem Solving Paradigms,4
+10074,1015,Problem Solving Paradigms,2
+10667,1608,Problem Solving Paradigms,3
+10827,1768,Problem Solving Paradigms,3
+11951,3102,Problem Solving Paradigms,4
+111,47,Problem Solving Paradigms,4
+231,167,Problem Solving Paradigms,1
+437,378,Problem Solving Paradigms,2
+481,422,Problem Solving Paradigms,2
+497,438,Problem Solving Paradigms,2
+1196,3637,Problem Solving Paradigms,2
+10131,1072,Problem Solving Paradigms,3
+10534,1475,Problem Solving Paradigms,3
+11368,2353,Problem Solving Paradigms,4
+11456,2451,Problem Solving Paradigms,3
+11790,2890,Problem Solving Paradigms,3
+562,503,Problem Solving Paradigms,2
+990,931,Problem Solving Paradigms,3
+1213,3654,Problem Solving Paradigms,3
+10130,1071,Problem Solving Paradigms,2
+10261,1202,Problem Solving Paradigms,3
+10616,1557,Problem Solving Paradigms,3
+10664,1605,Problem Solving Paradigms,2
+10819,1760,Problem Solving Paradigms,3
+11003,1944,Problem Solving Paradigms,3
+11341,2316,Problem Solving Paradigms,4
+11566,2613,Problem Solving Paradigms,5
+11658,2705,Problem Solving Paradigms,4
+147,83,Problem Solving Paradigms,2
+166,102,Problem Solving Paradigms,3
+357,293,Problem Solving Paradigms,1
+674,615,Problem Solving Paradigms,1
+10306,1247,Problem Solving Paradigms,3
+10313,1254,Problem Solving Paradigms,3
+11137,2078,Problem Solving Paradigms,2
+11517,2512,Problem Solving Paradigms,3
+216,152,Problem Solving Paradigms,2
+10496,1437,Problem Solving Paradigms,3
+11284,2259,Problem Solving Paradigms,4
+116,52,Problem Solving Paradigms,2
+196,132,Problem Solving Paradigms,3
+1261,3702,Problem Solving Paradigms,4
+10003,944,Problem Solving Paradigms,1
+10036,977,Problem Solving Paradigms,3
+10086,1027,Problem Solving Paradigms,4
+10337,1278,Problem Solving Paradigms,3
+10400,1341,Problem Solving Paradigms,3
+10446,1387,Problem Solving Paradigms,3
+10465,1406,Problem Solving Paradigms,2
+10520,1461,Problem Solving Paradigms,4
+10688,1629,Problem Solving Paradigms,4
+10721,1662,Problem Solving Paradigms,3
+10910,1851,Problem Solving Paradigms,3
+10912,1853,Problem Solving Paradigms,3
+10943,1884,Problem Solving Paradigms,2
+10980,1921,Problem Solving Paradigms,4
+11026,1967,Problem Solving Paradigms,4
+11407,2402,Problem Solving Paradigms,3
+11420,2415,Problem Solving Paradigms,3
+11450,2445,Problem Solving Paradigms,2
+11703,2750,Problem Solving Paradigms,3
+410,351,Problem Solving Paradigms,3
+1193,3634,Problem Solving Paradigms,5
+10020,961,Problem Solving Paradigms,3
+10382,1323,Problem Solving Paradigms,3
+11264,2231,Problem Solving Paradigms,3
+11389,2384,Problem Solving Paradigms,2
+12321,3743,Problem Solving Paradigms,4
+12405,3836,Problem Solving Paradigms,3
+10026,967,Problem Solving Paradigms,2
+10037,978,Problem Solving Paradigms,3
+10249,1190,Problem Solving Paradigms,3
+10670,1611,Problem Solving Paradigms,3
+10763,1704,Problem Solving Paradigms,2
+10785,1726,Problem Solving Paradigms,3
+11100,2041,Problem Solving Paradigms,3
+11103,2044,Problem Solving Paradigms,4
+11269,2236,Problem Solving Paradigms,5
+11292,2267,Problem Solving Paradigms,2
+11369,2354,Problem Solving Paradigms,2
+11729,2829,Problem Solving Paradigms,3
+11900,3051,Problem Solving Paradigms,2
+12210,3362,Problem Solving Paradigms,3
+12485,3929,Problem Solving Paradigms,4
+311,247,Problem Solving Paradigms,3
+668,609,Problem Solving Paradigms,4
+10152,1093,Problem Solving Paradigms,2
+10340,1281,Problem Solving Paradigms,1
+10440,1381,Problem Solving Paradigms,3
+10602,1543,Problem Solving Paradigms,3
+10656,1597,Problem Solving Paradigms,2
+10672,1613,Problem Solving Paradigms,4
+10700,1641,Problem Solving Paradigms,3
+10714,1655,Problem Solving Paradigms,2
+10718,1659,Problem Solving Paradigms,3
+10982,1923,Problem Solving Paradigms,5
+11054,1995,Problem Solving Paradigms,3
+11157,2098,Problem Solving Paradigms,3
+11230,2171,Problem Solving Paradigms,4
+11240,2181,Problem Solving Paradigms,4
+11335,2310,Problem Solving Paradigms,5
+11520,2515,Problem Solving Paradigms,3
+11532,2527,Problem Solving Paradigms,4
+11567,2614,Problem Solving Paradigms,4
+12482,3926,Problem Solving Paradigms,4
+118,54,Graph,2
+168,104,Graph,3
+280,216,Graph,2
+318,254,Graph,3
+614,555,Graph,4
+824,765,Graph,4
+10113,1054,Graph,4
+10116,1057,Graph,3
+10377,1318,Graph,3
+10687,1628,Graph,4
+11831,2931,Graph,3
+11902,3053,Graph,3
+11906,3057,Graph,4
+12376,3798,Graph,4
+12442,3873,Graph,3
+12582,4027,Graph,4
+260,196,Graph,2
+352,288,Graph,2
+459,400,Graph,2
+469,410,Graph,2
+572,513,Graph,1
+657,598,Graph,3
+722,663,Graph,4
+758,699,Graph,5
+776,717,Graph,4
+782,723,Graph,4
+784,725,Graph,2
+785,726,Graph,3
+852,793,Graph,4
+871,812,Graph,3
+1103,3544,Graph,4
+10336,1277,Graph,2
+10707,1648,Graph,5
+10946,1887,Graph,3
+11094,2035,Graph,3
+11110,2051,Graph,3
+11244,2201,Graph,3
+11470,2465,Graph,3
+11518,2513,Graph,3
+11561,2597,Graph,4
+11749,2849,Graph,4
+11953,3104,Graph,3
+124,60,Graph,2
+200,136,Graph,2
+872,813,Graph,3
+10305,1246,Graph,1
+11060,2001,Graph,3
+11686,2733,Graph,3
+10004,945,Graph,1
+10505,1446,Graph,4
+11080,2021,Graph,3
+11396,2391,Graph,3
+315,251,Graph,2
+610,551,Graph,3
+796,737,Graph,3
+10199,1140,Graph,3
+10765,1706,Graph,4
+247,183,Graph,3
+1229,3670,Graph,5
+10731,1672,Graph,4
+11504,2499,Graph,3
+11709,2756,Graph,3
+11770,2870,Graph,3
+11838,2938,Graph,3
+341,277,Graph,3
+423,364,Graph,3
+567,508,Graph,2
+821,762,Graph,2
+1233,3674,Graph,6
+1247,3688,Graph,5
+10171,1112,Graph,3
+10354,1295,Graph,4
+10525,1466,Graph,4
+10724,1665,Graph,5
+10793,1734,Graph,4
+10803,1744,Graph,3
+10947,1888,Graph,4
+11015,1956,Graph,3
+11463,2458,Graph,3
+12319,3741,Graph,5
+104,40,Graph,2
+125,61,Graph,3
+186,122,Graph,4
+274,210,Graph,4
+436,377,Graph,3
+334,270,Graph,4
+869,810,Graph,4
+925,866,Graph,5
+1056,3497,Graph,4
+1198,3639,Graph,6
+11047,1988,Graph,5
+103,39,Graph,2
+452,393,Graph,4
+10000,941,Graph,2
+10051,992,Graph,3
+10259,1200,Graph,4
+10285,1226,Graph,2
+10350,1291,Graph,4
+825,766,Graph,3
+926,867,Graph,4
+986,927,Graph,5
+988,929,Graph,4
+10401,1342,Graph,4
+10926,1867,Graph,3
+11067,2008,Graph,4
+11655,2702,Graph,5
+11957,3108,Graph,4
+590,531,Graph,3
+907,848,Graph,4
+910,851,Graph,4
+10201,1142,Graph,4
+10543,1484,Graph,4
+10681,1622,Graph,4
+10702,1643,Graph,3
+10874,1815,Graph,4
+10913,1854,Graph,4
+11307,2282,Graph,4
+11487,2482,Graph,5
+11545,2540,Graph,5
+11782,2882,Graph,5
+908,849,Graph,3
+1174,3615,Graph,4
+1208,3649,Graph,4
+1235,3676,Graph,4
+10034,975,Graph,2
+11228,2169,Graph,3
+11631,2678,Graph,2
+11710,2757,Graph,3
+11733,2833,Graph,3
+11747,2847,Graph,3
+11857,2957,Graph,4
+534,475,Graph,2
+544,485,Graph,2
+1160,3601,Graph,4
+1216,3657,Graph,5
+1234,3675,Graph,4
+10048,989,Graph,2
+10099,1040,Graph,2
+10147,1088,Graph,3
+10369,1310,Graph,2
+10397,1338,Graph,3
+10462,1403,Graph,3
+10600,1541,Graph,3
+10842,1783,Graph,3
+336,272,Graph,2
+383,319,Graph,3
+388,324,Graph,4
+429,370,Graph,3
+627,568,Graph,3
+762,703,Graph,3
+924,865,Graph,3
+1148,3589,Graph,4
+10009,950,Graph,3
+10422,1363,Graph,3
+10610,1551,Graph,4
+10653,1594,Graph,2
+10959,1900,Graph,3
+314,250,Graph,3
+532,473,Graph,2
+859,800,Graph,6
+949,890,Graph,6
+10044,985,Graph,3
+10067,1008,Graph,2
+10150,1091,Graph,3
+10977,1918,Graph,4
+11049,1990,Graph,4
+11101,2042,Graph,4
+11352,2327,Graph,3
+11624,2671,Graph,3
+11792,2892,Graph,5
+12160,3312,Graph,4
+929,870,Graph,3
+1112,3553,Graph,3
+10389,1330,Graph,4
+10986,1927,Graph,2
+1202,3643,Graph,6
+10166,1107,Graph,5
+10187,1128,Graph,4
+10278,1219,Graph,3
+10356,1297,Graph,4
+10603,1544,Graph,4
+10801,1742,Graph,3
+10967,1908,Graph,6
+11338,2313,Graph,5
+11367,2352,Graph,4
+11377,2372,Graph,4
+11492,2487,Graph,4
+11833,2933,Graph,5
+12047,3198,Graph,4
+12144,3296,Graph,5
+558,499,Graph,2
+10449,1390,Graph,4
+10557,1498,Graph,3
+11280,2255,Graph,4
+259,195,Graph,3
+820,761,Graph,2
+10092,1033,Graph,3
+10511,1452,Graph,4
+10779,1720,Graph,4
+11045,1986,Graph,3
+11167,2108,Graph,5
+11418,2413,Graph,4
+10330,1271,Graph,3
+10480,1421,Graph,3
+11380,2375,Graph,4
+11506,2501,Graph,3
+12125,3277,Graph,5
+112,48,Graph,2
+115,51,Graph,3
+122,58,Graph,2
+536,477,Graph,2
+548,489,Graph,3
+615,556,Graph,3
+699,640,Graph,3
+712,653,Graph,3
+839,780,Graph,3
+10308,1249,Graph,4
+10459,1400,Graph,4
+10701,1642,Graph,3
+10805,1746,Graph,5
+11131,2072,Graph,5
+11234,2175,Graph,4
+11615,2662,Graph,5
+11695,2742,Graph,5
+12186,3338,Graph,4
+12347,3769,Graph,4
+117,53,Graph,2
+291,227,Graph,2
+10054,995,Graph,3
+10129,1070,Graph,3
+10203,1144,Graph,4
+10596,1537,Graph,4
+663,604,Graph,4
+670,611,Graph,4
+753,694,Graph,4
+1194,3635,Graph,5
+10080,1021,Graph,3
+10349,1290,Graph,4
+11138,2079,Graph,4
+11159,2100,Graph,4
+11419,2414,Graph,4
+12083,3235,Graph,5
+12168,3320,Graph,5
+10055,996,Mathematics,0
+10071,1012,Mathematics,0
+10281,1222,Mathematics,2
+10469,1410,Mathematics,1
+10773,1714,Mathematics,2
+11614,2661,Mathematics,2
+11723,2823,Mathematics,2
+11805,2905,Mathematics,2
+11875,2986,Mathematics,2
+12149,3301,Mathematics,2
+12502,3946,Mathematics,2
+100,36,Mathematics,0
+371,307,Mathematics,2
+382,318,Mathematics,1
+834,775,Mathematics,2
+906,847,Mathematics,5
+1225,3666,Mathematics,2
+10035,976,Mathematics,1
+10346,1287,Mathematics,1
+10370,1311,Mathematics,1
+10783,1724,Mathematics,0
+10879,1820,Mathematics,2
+11150,2091,Mathematics,1
+11247,2204,Mathematics,4
+11313,2288,Mathematics,3
+11689,2736,Mathematics,2
+11877,2999,Mathematics,2
+11934,3085,Mathematics,2
+12290,3711,Mathematics,4
+12527,3972,Mathematics,3
+493,434,Mathematics,4
+550,491,Mathematics,3
+616,557,Mathematics,3
+697,638,Mathematics,5
+846,787,Mathematics,2
+10025,966,Mathematics,3
+10257,1198,Mathematics,4
+10624,1565,Mathematics,4
+11130,2071,Mathematics,4
+11254,2221,Mathematics,4
+11968,3119,Mathematics,5
+10014,955,Mathematics,3
+10170,1111,Mathematics,2
+10499,1440,Mathematics,2
+10696,1637,Mathematics,1
+10751,1692,Mathematics,4
+10940,1881,Mathematics,3
+11202,2143,Mathematics,4
+12004,3155,Mathematics,4
+12027,3178,Mathematics,5
+651,592,Mathematics,4
+913,854,Mathematics,2
+10161,1102,Mathematics,2
+10493,1434,Mathematics,4
+10509,1450,Mathematics,3
+10666,1607,Mathematics,4
+10693,1634,Mathematics,3
+10710,1651,Mathematics,5
+10882,1823,Mathematics,5
+10970,1911,Mathematics,1
+10994,1935,Mathematics,3
+11231,2172,Mathematics,3
+11246,2203,Mathematics,4
+11296,2271,Mathematics,4
+11298,2273,Mathematics,5
+11387,2382,Mathematics,4
+11393,2388,Mathematics,5
+264,200,Mathematics,1
+808,749,Mathematics,4
+880,821,Mathematics,3
+10182,1123,Mathematics,3
+10233,1174,Mathematics,4
+10620,1561,Mathematics,4
+10642,1583,Mathematics,3
+10964,1905,Mathematics,5
+136,72,Mathematics,1
+138,74,Mathematics,2
+413,354,Mathematics,3
+443,384,Mathematics,2
+640,581,Mathematics,2
+694,635,Mathematics,1
+962,903,Mathematics,4
+974,915,Mathematics,3
+10006,947,Mathematics,2
+10042,983,Mathematics,2
+10049,990,Mathematics,3
+10101,1042,Mathematics,3
+10408,1349,Mathematics,3
+10930,1871,Mathematics,3
+11028,1969,Mathematics,5
+11063,2004,Mathematics,3
+11461,2456,Mathematics,1
+11660,2707,Mathematics,5
+11970,3121,Mathematics,4
+107,43,Mathematics,2
+113,49,Mathematics,1
+474,415,Mathematics,3
+545,486,Mathematics,4
+701,642,Mathematics,3
+1185,3626,Mathematics,3
+10916,1857,Mathematics,3
+11384,2379,Mathematics,3
+11556,2592,Mathematics,4
+11636,2683,Mathematics,1
+11666,2713,Mathematics,4
+11714,2761,Mathematics,4
+11847,2947,Mathematics,4
+11986,3137,Mathematics,4
+12416,3847,Mathematics,4
+126,62,Mathematics,3
+392,328,Mathematics,2
+498,439,Mathematics,3
+10215,1156,Mathematics,4
+10268,1209,Mathematics,3
+10302,1243,Mathematics,1
+10326,1267,Mathematics,4
+10586,1527,Mathematics,4
+10719,1660,Mathematics,3
+11692,2739,Mathematics,5
+377,313,Mathematics,3
+575,516,Mathematics,1
+636,577,Mathematics,3
+10093,1034,Mathematics,3
+10677,1618,Mathematics,4
+10931,1872,Mathematics,2
+11005,1946,Mathematics,3
+11121,2062,Mathematics,3
+11398,2393,Mathematics,4
+12602,4280,Mathematics,3
+276,212,Mathematics,5
+496,437,Mathematics,2
+613,554,Mathematics,4
+10137,1078,Mathematics,2
+10190,1131,Mathematics,2
+11055,1996,Mathematics,5
+11241,2182,Mathematics,4
+11526,2521,Mathematics,3
+11715,2762,Mathematics,2
+11816,2916,Mathematics,6
+12036,3187,Mathematics,4
+542,483,Mathematics,3
+10056,997,Mathematics,3
+10218,1159,Mathematics,5
+10238,1179,Mathematics,5
+10328,1269,Mathematics,4
+10491,1432,Mathematics,3
+10759,1700,Mathematics,4
+10777,1718,Mathematics,5
+11021,1962,Mathematics,4
+11176,2117,Mathematics,5
+11181,2122,Mathematics,4
+11346,2321,Mathematics,4
+11500,2495,Mathematics,4
+11628,2675,Mathematics,4
+12024,3175,Mathematics,4
+12114,3266,Mathematics,4
+12457,3888,Mathematics,5
+12461,3904,Mathematics,3
+202,138,Mathematics,2
+275,211,Mathematics,3
+350,286,Mathematics,2
+944,885,Mathematics,4
+10162,1103,Mathematics,3
+10515,1456,Mathematics,2
+10591,1532,Mathematics,2
+11036,1977,Mathematics,5
+11053,1994,Mathematics,4
+11549,2544,Mathematics,3
+11634,2681,Mathematics,4
+12464,3907,Mathematics,5
+847,788,Mathematics,2
+10111,1052,Mathematics,4
+10165,1106,Mathematics,3
+10368,1309,Mathematics,3
+10404,1345,Mathematics,3
+10578,1519,Mathematics,4
+11311,2286,Mathematics,4
+11489,2484,Mathematics,3
+12293,3714,Mathematics,4
+12469,3913,Mathematics,5
+424,365,Mathematics,1
+465,406,Mathematics,2
+619,560,Mathematics,3
+713,654,Mathematics,2
+748,689,Mathematics,2
+1226,3667,Mathematics,4
+10013,954,Mathematics,2
+10083,1024,Mathematics,4
+10106,1047,Mathematics,1
+10198,1139,Mathematics,2
+10430,1371,Mathematics,5
+10433,1374,Mathematics,4
+10494,1435,Mathematics,2
+10519,1460,Mathematics,3
+10523,1464,Mathematics,2
+10669,1610,Mathematics,4
+10925,1866,Mathematics,3
+10992,1933,Mathematics,4
+11448,2443,Mathematics,3
+11664,2711,Mathematics,6
+11830,2930,Mathematics,3
+11879,3001,Mathematics,2
+12143,3295,Mathematics,6
+12459,3890,Mathematics,3
+290,226,Mathematics,4
+343,279,Mathematics,2
+355,291,Mathematics,2
+389,325,Mathematics,2
+446,387,Mathematics,2
+10473,1414,Mathematics,2
+10551,1492,Mathematics,3
+11185,2126,Mathematics,2
+11952,3103,Mathematics,5
+960,901,Mathematics,5
+1210,3651,Mathematics,3
+10235,1176,Mathematics,2
+10924,1865,Mathematics,1
+11287,2262,Mathematics,4
+12542,3987,Mathematics,4
+1230,3671,Mathematics,3
+10023,964,Mathematics,3
+10193,1134,Mathematics,2
+10464,1405,Mathematics,4
+10814,1755,Mathematics,3
+11821,2921,Mathematics,4
+495,436,Mathematics,1
+580,521,Mathematics,3
+763,704,Mathematics,3
+900,841,Mathematics,2
+948,889,Mathematics,3
+1258,3699,Mathematics,6
+10183,1124,Mathematics,2
+10334,1275,Mathematics,2
+10450,1391,Mathematics,2
+10497,1438,Mathematics,4
+10579,1520,Mathematics,2
+10689,1630,Mathematics,3
+10862,1803,Mathematics,3
+11000,1941,Mathematics,2
+11089,2030,Mathematics,4
+11161,2102,Mathematics,4
+11780,2880,Mathematics,4
+326,262,Mathematics,3
+369,305,Mathematics,1
+485,426,Mathematics,3
+530,471,Mathematics,2
+911,852,Mathematics,5
+10105,1046,Mathematics,2
+10219,1160,Mathematics,2
+10375,1316,Mathematics,3
+10532,1473,Mathematics,4
+10541,1482,Mathematics,4
+11955,3106,Mathematics,4
+991,932,Mathematics,3
+10007,948,Mathematics,3
+10223,1164,Mathematics,3
+10303,1244,Mathematics,3
+10312,1253,Mathematics,4
+10643,1584,Mathematics,5
+11115,2056,Mathematics,3
+11310,2285,Mathematics,3
+11401,2396,Mathematics,3
+11480,2475,Mathematics,4
+11597,2644,Mathematics,3
+11609,2656,Mathematics,4
+12463,3906,Mathematics,4
+1224,3665,Mathematics,5
+10079,1020,Mathematics,1
+10359,1300,Mathematics,3
+10733,1674,Mathematics,4
+10784,1725,Mathematics,2
+10790,1731,Mathematics,3
+10918,1859,Mathematics,3
+11069,2010,Mathematics,3
+11204,2145,Mathematics,4
+11270,2245,Mathematics,5
+11538,2533,Mathematics,3
+11554,2549,Mathematics,4
+12022,3173,Mathematics,5
+406,347,Mathematics,2
+543,484,Mathematics,1
+686,627,Mathematics,1
+897,838,Mathematics,3
+914,855,Mathematics,3
+10140,1081,Mathematics,3
+10168,1109,Mathematics,2
+10311,1252,Mathematics,3
+10394,1335,Mathematics,2
+10490,1431,Mathematics,3
+10650,1591,Mathematics,3
+10852,1793,Mathematics,3
+10948,1889,Mathematics,3
+11752,2852,Mathematics,4
+106,42,Mathematics,2
+332,268,Mathematics,3
+408,349,Mathematics,2
+412,353,Mathematics,2
+10407,1348,Mathematics,3
+10892,1833,Mathematics,3
+11388,2383,Mathematics,2
+11417,2412,Mathematics,2
+11774,2874,Mathematics,4
+11827,2927,Mathematics,2
+12068,3220,Mathematics,4
+324,260,Mathematics,2
+568,509,Mathematics,2
+623,564,Mathematics,2
+10220,1161,Mathematics,2
+10323,1264,Mathematics,2
+10338,1279,Mathematics,2
+516,457,Mathematics,3
+583,524,Mathematics,2
+10392,1333,Mathematics,3
+11466,2461,Mathematics,3
+160,96,Mathematics,1
+993,934,Mathematics,2
+10061,1002,Mathematics,3
+10139,1080,Mathematics,2
+10484,1425,Mathematics,4
+10527,1468,Mathematics,4
+10622,1563,Mathematics,3
+10680,1621,Mathematics,3
+10780,1721,Mathematics,3
+10791,1732,Mathematics,3
+11347,2322,Mathematics,4
+11395,2390,Mathematics,5
+11889,2989,Mathematics,3
+294,230,Mathematics,2
+884,825,Mathematics,3
+1246,3687,Mathematics,4
+10179,1120,Mathematics,2
+10299,1240,Mathematics,3
+10820,1761,Mathematics,3
+10958,1899,Mathematics,5
+11064,2005,Mathematics,3
+11086,2027,Mathematics,4
+11226,2167,Mathematics,4
+11353,2338,Mathematics,4
+11728,2828,Mathematics,3
+12005,3156,Mathematics,5
+10699,1640,Mathematics,2
+10738,1679,Mathematics,3
+10990,1931,Mathematics,4
+11327,2302,Mathematics,4
+12043,3194,Mathematics,4
+128,64,Mathematics,2
+374,310,Mathematics,1
+10127,1068,Mathematics,1
+10174,1115,Mathematics,4
+10176,1117,Mathematics,3
+10212,1153,Mathematics,3
+10489,1430,Mathematics,3
+11029,1970,Mathematics,4
+10090,1031,Mathematics,3
+10104,1045,Mathematics,2
+10633,1574,Mathematics,3
+10673,1614,Mathematics,3
+547,488,Mathematics,4
+756,697,Mathematics,4
+10110,1051,Mathematics,1
+10922,1863,Mathematics,2
+10929,1870,Mathematics,1
+11042,1983,Mathematics,4
+11344,2319,Mathematics,3
+11371,2366,Mathematics,3
+245,181,String Processing,4
+306,242,String Processing,3
+444,385,String Processing,2
+458,399,String Processing,0
+483,424,String Processing,1
+492,433,String Processing,2
+641,582,String Processing,3
+739,680,String Processing,3
+795,736,String Processing,5
+865,806,String Processing,4
+10019,960,String Processing,1
+10222,1163,String Processing,1
+10851,1792,String Processing,4
+10878,1819,String Processing,2
+10896,1837,String Processing,4
+10921,1862,String Processing,1
+11220,2161,String Processing,3
+11278,2253,String Processing,4
+11541,2536,String Processing,2
+11716,2763,String Processing,2
+11787,2887,String Processing,4
+11946,3097,String Processing,3
+213,149,String Processing,3
+468,409,String Processing,4
+554,495,String Processing,4
+632,573,String Processing,4
+726,667,String Processing,5
+740,681,String Processing,3
+741,682,String Processing,4
+850,791,String Processing,3
+856,797,String Processing,5
+11385,2380,String Processing,3
+11697,2744,String Processing,5
+499,440,String Processing,1
+895,836,String Processing,3
+902,843,String Processing,3
+10008,949,String Processing,1
+10062,1003,String Processing,2
+10252,1193,String Processing,2
+10293,1234,String Processing,3
+10374,1315,String Processing,3
+10420,1361,String Processing,1
+10625,1566,String Processing,4
+10789,1730,String Processing,2
+11203,2144,String Processing,4
+11577,2624,String Processing,2
+271,207,String Processing,3
+327,263,String Processing,3
+391,327,String Processing,4
+397,333,String Processing,4
+442,383,String Processing,2
+486,427,String Processing,3
+537,478,String Processing,2
+1200,3641,String Processing,5
+10906,1847,String Processing,5
+11148,2089,String Processing,5
+11357,2342,String Processing,5
+11878,3000,String Processing,3
+12543,3988,String Processing,4
+384,320,String Processing,3
+464,405,String Processing,5
+620,561,String Processing,3
+622,563,String Processing,4
+743,684,String Processing,4
+10854,1795,String Processing,5
+11070,2011,String Processing,5
+11291,2266,String Processing,5
+325,261,String Processing,3
+494,435,String Processing,0
+576,517,String Processing,2
+10058,999,String Processing,4
+719,660,String Processing,3
+760,701,String Processing,4
+1223,3664,String Processing,4
+1254,3695,String Processing,6
+11107,2048,String Processing,4
+11512,2507,String Processing,3
+110,46,String Processing,3
+159,95,String Processing,4
+320,256,String Processing,3
+330,266,String Processing,5
+338,274,String Processing,4
+373,309,String Processing,6
+426,367,String Processing,5
+445,386,String Processing,1
+488,429,String Processing,1
+490,431,String Processing,1
+570,511,String Processing,5
+645,586,String Processing,5
+890,831,String Processing,6
+1219,3660,String Processing,6
+10333,1274,String Processing,5
+10500,1441,String Processing,4
+10761,1702,String Processing,5
+10800,1741,String Processing,3
+10875,1816,String Processing,5
+10894,1835,String Processing,4
+11074,2015,String Processing,3
+11482,2477,String Processing,5
+11965,3116,String Processing,3
+12155,3307,String Processing,6
+12364,3786,String Processing,4
+409,350,String Processing,2
+644,585,String Processing,2
+671,612,String Processing,4
+912,853,String Processing,6
+11048,1989,String Processing,4
+11056,1997,String Processing,4
+11233,2174,String Processing,3
+11713,2760,String Processing,2
+11734,2834,String Processing,3
+153,89,String Processing,3
+263,199,String Processing,3
+892,833,String Processing,4
+941,882,String Processing,3
+1215,3656,String Processing,5
+1239,3680,String Processing,5
+10115,1056,String Processing,3
+10126,1067,String Processing,4
+10197,1138,String Processing,4
+10361,1302,String Processing,2
+10391,1332,String Processing,3
+10393,1334,String Processing,4
+10508,1449,String Processing,3
+10679,1620,String Processing,3
+11452,2447,String Processing,4
+11483,2478,String Processing,4
+11839,2939,String Processing,3
+11962,3113,String Processing,5
+12243,3395,String Processing,3
+12414,3845,String Processing,5
+455,396,String Processing,2
+886,827,String Processing,6
+10298,1239,String Processing,2
+11362,2347,String Processing,3
+11475,2470,String Processing,3
+11576,2623,String Processing,4
+11888,2988,String Processing,4
+12467,3911,String Processing,4
+422,363,String Processing,3
+604,545,String Processing,4
+736,677,String Processing,5
+10010,951,String Processing,2
+11283,2258,String Processing,4
+164,100,String Processing,3
+526,467,String Processing,3
+531,472,String Processing,2
+1207,3648,String Processing,4
+10066,1007,String Processing,2
+10100,1041,String Processing,3
+10192,1133,String Processing,2
+10405,1346,String Processing,1
+10635,1576,String Processing,3
+10739,1680,String Processing,3
+257,193,String Processing,4
+10453,1394,String Processing,3
+10617,1558,String Processing,3
+11022,1963,String Processing,4
+11151,2092,String Processing,2
+11258,2225,String Processing,4
+11552,2547,String Processing,4
+152,88,(Computational) Geometry,3
+191,127,(Computational) Geometry,2
+378,314,(Computational) Geometry,2
+587,528,(Computational) Geometry,3
+833,774,(Computational) Geometry,4
+837,778,(Computational) Geometry,3
+920,861,(Computational) Geometry,3
+1249,3690,(Computational) Geometry,5
+10242,1183,(Computational) Geometry,3
+10250,1191,(Computational) Geometry,3
+10263,1204,(Computational) Geometry,3
+10357,1298,(Computational) Geometry,5
+10466,1407,(Computational) Geometry,4
+10585,1526,(Computational) Geometry,4
+10832,1773,(Computational) Geometry,5
+10865,1806,(Computational) Geometry,4
+10902,1843,(Computational) Geometry,4
+10927,1868,(Computational) Geometry,4
+11068,2009,(Computational) Geometry,3
+11343,2318,(Computational) Geometry,4
+11505,2500,(Computational) Geometry,4
+11519,2514,(Computational) Geometry,5
+11894,2994,(Computational) Geometry,5
+121,57,(Computational) Geometry,3
+143,79,(Computational) Geometry,4
+190,126,(Computational) Geometry,2
+375,311,(Computational) Geometry,4
+438,379,(Computational) Geometry,2
+10195,1136,(Computational) Geometry,2
+10210,1151,(Computational) Geometry,4
+10286,1227,(Computational) Geometry,2
+10347,1288,(Computational) Geometry,2
+10387,1328,(Computational) Geometry,3
+10522,1463,(Computational) Geometry,4
+10577,1518,(Computational) Geometry,4
+10792,1733,(Computational) Geometry,4
+10991,1932,(Computational) Geometry,3
+11152,2093,(Computational) Geometry,2
+11164,2105,(Computational) Geometry,5
+11281,2256,(Computational) Geometry,5
+11326,2301,(Computational) Geometry,5
+11437,2432,(Computational) Geometry,4
+11479,2474,(Computational) Geometry,2
+11579,2626,(Computational) Geometry,4
+11854,2954,(Computational) Geometry,1
+11909,3060,(Computational) Geometry,3
+11936,3087,(Computational) Geometry,2
+1388,4134,(Computational) Geometry,4
+10005,946,(Computational) Geometry,3
+10136,1077,(Computational) Geometry,4
+10180,1121,(Computational) Geometry,4
+10209,1150,(Computational) Geometry,2
+10221,1162,(Computational) Geometry,2
+10283,1224,(Computational) Geometry,4
+10432,1373,(Computational) Geometry,2
+10451,1392,(Computational) Geometry,3
+10573,1514,(Computational) Geometry,3
+10589,1530,(Computational) Geometry,3
+10678,1619,(Computational) Geometry,3
+12578,4023,(Computational) Geometry,2
+155,91,(Computational) Geometry,3
+460,401,(Computational) Geometry,3
+476,417,(Computational) Geometry,2
+477,418,(Computational) Geometry,2
+11207,2148,(Computational) Geometry,3
+11345,2320,(Computational) Geometry,4
+11455,2450,(Computational) Geometry,2
+11639,2686,(Computational) Geometry,4
+11800,2900,(Computational) Geometry,4
+11834,2934,(Computational) Geometry,4
+12256,3408,(Computational) Geometry,5
+737,678,(Computational) Geometry,3
+815,756,(Computational) Geometry,3
+10297,1238,(Computational) Geometry,3
+109,45,(Computational) Geometry,3
+137,73,(Computational) Geometry,4
+218,154,(Computational) Geometry,3
+361,297,(Computational) Geometry,5
+478,419,(Computational) Geometry,2
+596,537,(Computational) Geometry,6
+634,575,(Computational) Geometry,3
+681,622,(Computational) Geometry,3
+858,799,(Computational) Geometry,5
+1111,3552,(Computational) Geometry,4
+1206,3647,(Computational) Geometry,6
+10002,943,(Computational) Geometry,3
+10060,1001,(Computational) Geometry,4
+10065,1006,(Computational) Geometry,3
+10112,1053,(Computational) Geometry,3
+10406,1347,(Computational) Geometry,4
+10652,1593,(Computational) Geometry,4
+11096,2037,(Computational) Geometry,4
+11265,2232,(Computational) Geometry,5
+11447,2442,(Computational) Geometry,5
+11473,2468,(Computational) Geometry,5
+11626,2673,(Computational) Geometry,4
