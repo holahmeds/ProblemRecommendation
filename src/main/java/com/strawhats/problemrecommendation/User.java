@@ -5,9 +5,12 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
+import java.util.function.Function;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
@@ -63,6 +66,37 @@ public class User {
 		ArrayList<Problem> acceptedProblems = problems.stream().filter(problem -> acceptedPIDs.contains(problem.problemID)).collect(Collectors.toCollection(ArrayList::new));
 
 		return acceptedProblems;
+	}
+
+	public static Map<String, Double> getAcceptedRatioPerCategory(String username) throws IOException {
+		Map<String, Long> totalProblems = Problem.getCountPerCategory(Problem.getProblems());
+		Map<String, Long> userACProblems = Problem.getCountPerCategory(User.getAccepted(username));
+
+		Map<String, Double> ACRatio = new HashMap<>();
+		for (String Category : totalProblems.keySet()) {
+			ACRatio.put(Category, userACProblems.get(Category).doubleValue() / totalProblems.get(Category));
+		}
+
+		return ACRatio;
+	}
+
+	public static Map<String, Map<Integer, Double>> getAcceptedRatioPerLevelPerCategory(String username) throws IOException {
+		Map<String, Map<Integer, Long>> totalProblems = Problem.getProblemStats(Problem.getProblems());
+		Map<String, Map<Integer, Long>> userACProblems = Problem.getProblemStats(User.getAccepted(username));
+
+		Map<String, Map<Integer, Double>> ACRatio = new HashMap<>();
+		for (String category : totalProblems.keySet()) {
+			Map<Integer, Long> totalcountPerLevel = totalProblems.get(category);
+			Map<Integer, Long> userCountPerLevel = userACProblems.getOrDefault(category, Collections.EMPTY_MAP);
+
+			Map<Integer, Double> levelGroup = new HashMap<>();
+			for (Integer level : totalcountPerLevel.keySet()) {
+				levelGroup.put(level, userCountPerLevel.getOrDefault(level, Long.valueOf(0)).doubleValue() / totalcountPerLevel.get(level));
+			}
+			ACRatio.put(category, levelGroup);
+		}
+
+		return ACRatio;
 	}
 
 }

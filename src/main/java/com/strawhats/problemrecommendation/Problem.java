@@ -7,9 +7,13 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
 import org.json.JSONObject;
 
 public class Problem {
@@ -28,6 +32,14 @@ public class Problem {
 		this.problemID = problemID;
 		this.category = category;
 		this.level = level;
+	}
+
+	public String getCategory() {
+		return category;
+	}
+
+	public int getLevel() {
+		return level;
 	}
 
     @Override
@@ -87,6 +99,24 @@ public class Problem {
 
 		JSONObject response = new JSONObject(responseStream.next());
 		return response.getInt("pid");
+	}
+
+	public static Map<String, Map<Integer, Long>> getProblemStats(ArrayList<Problem> problems) {
+		HashMap<String, Map<Integer, Long>> stats = new HashMap<>();
+
+		List<String> categories = problems.stream().map(problem -> problem.category).collect(Collectors.toList());
+		for (String cat : categories) {
+			List<Problem> categoryProblems = problems.stream().filter(problem -> problem.category.equals(cat)).collect(Collectors.toList());
+			Map<Integer, Long> levelGroup = categoryProblems.stream().collect(Collectors.groupingBy(Problem::getLevel, Collectors.counting()));
+
+			stats.put(cat, levelGroup);
+		}
+
+		return stats;
+	}
+
+	public static Map<String, Long> getCountPerCategory(ArrayList<Problem> problems) {
+		return problems.stream().collect(Collectors.groupingBy(Problem::getCategory, Collectors.counting()));
 	}
     
 }
