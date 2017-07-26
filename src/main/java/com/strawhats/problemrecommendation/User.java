@@ -4,10 +4,13 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -30,7 +33,7 @@ public class User {
 		return scanner.nextInt();
 	}
 
-	public static int[] getAccepted(String username) throws IOException {
+	public static ArrayList<Problem> getAccepted(String username) throws IOException {
 		int uid = getUID(username);
 
 		URL url = null;
@@ -48,22 +51,18 @@ public class User {
 		JSONObject response = new JSONObject(responseStream.next());
 		JSONArray submissions = response.getJSONArray("subs");
 
-		HashSet<Integer> set = new HashSet<>();
+		HashSet<Integer> acceptedPIDs = new HashSet<>();
 		for (int i = 0; i < submissions.length(); i++) {
 			JSONArray sub = submissions.getJSONArray(i);
-			if (sub.getInt(2) == 90) {
-				set.add(sub.getInt(1));
+			if (sub.getInt(2) == 90) { // verdict is accepted
+				acceptedPIDs.add(sub.getInt(1));
 			}
 		}
 
-		int[] arr = new int[set.size()];
-		int i = 0;
-		for (Integer pid : set) {
-			arr[i] = Problem.getProblemNum(pid);
-			i++;
-		}
+		ArrayList<Problem> problems = Problem.getProblems();
+		ArrayList<Problem> acceptedProblems = problems.stream().filter(problem -> acceptedPIDs.contains(problem.problemID)).collect(Collectors.toCollection(ArrayList::new));
 
-		return arr;
+		return acceptedProblems;
 	}
 
 }
