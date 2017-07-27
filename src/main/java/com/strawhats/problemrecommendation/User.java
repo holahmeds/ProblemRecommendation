@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.function.Function;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
@@ -97,6 +97,58 @@ public class User {
 		}
 
 		return ACRatio;
+	}
+
+	public static Map<String, Integer> getRecommendedLevelPerCategory(String username) throws IOException {
+		Map<String, Map<Integer, Double>> ACRatios = getAcceptedRatioPerLevelPerCategory(username);
+
+		Map<String, Integer> recommendation = new HashMap<>();
+		for (String category : ACRatios.keySet()) {
+			Map<Integer, Double> levelRatios = ACRatios.get(category);
+
+			// get lowest level for category
+			int recLevel = levelRatios.keySet().stream().min((i1, i2) -> Integer.compare(i1, i2)).get();
+			double recLevelRatio = 0;
+
+			for (Integer l : levelRatios.keySet()) {
+				if (levelRatios.get(l) > recLevelRatio) {
+					recLevel = l;
+					recLevelRatio = Math.min(levelRatios.get(l), 0.70);
+
+					if (levelRatios.get(l) > 0.70) {
+						recLevel = l + 1;
+						recLevelRatio = Math.min(levelRatios.get(l + 1), 0.70);
+					}
+				}
+			}
+
+			recommendation.put(category, recLevel);
+		}
+
+		return recommendation;
+	}
+
+	public static List<Problem> getRecommendedProblems(String username) throws IOException {
+		List<Problem> allProblems = Problem.getProblems();
+		List<Problem> userSolvedProblems = getAccepted(username);
+		Map<String, Integer> recommendedLevels = getRecommendedLevelPerCategory(username);
+
+		// filter out solved problems and problems of other levels
+		List<Problem> filteredProblems = allProblems.stream()
+				.filter(problem -> !userSolvedProblems.contains(problem))
+				.filter(problem -> problem.level == recommendedLevels.get(problem.category) || problem.level == recommendedLevels.get(problem.category) + 1)
+				.collect(Collectors.toList());
+		Collections.shuffle(allProblems);
+
+		List<Problem> recommendedProblems = new ArrayList<>();
+
+		// get 2 problems from each problem
+		List<String> categories = allProblems.stream().map(problem -> problem.category).distinct().collect(Collectors.toList());
+		for (String cat : categories) {
+			recommendedProblems.addAll(filteredProblems.stream().filter(problem -> problem.category.equals(cat)).limit(2).collect(Collectors.toList()));
+		}
+
+		return recommendedProblems;
 	}
 
 }
