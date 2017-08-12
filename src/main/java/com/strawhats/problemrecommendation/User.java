@@ -99,10 +99,10 @@ public class User {
 		return ACRatio;
 	}
 
-	public static Map<String, Integer> getRecommendedLevelPerCategory(String username) throws IOException {
+	public static Map<String, List<Integer>> getRecommendedLevelsPerCategory(String username) throws IOException {
 		Map<String, Map<Integer, Double>> ACRatios = getAcceptedRatioPerLevelPerCategory(username);
 
-		Map<String, Integer> recommendation = new HashMap<>();
+		Map<String, List<Integer>> recommendation = new HashMap<>();
 		for (String category : ACRatios.keySet()) {
 			Map<Integer, Double> levelRatios = ACRatios.get(category);
 
@@ -122,7 +122,11 @@ public class User {
 				}
 			}
 
-			recommendation.put(category, recLevel);
+			recommendation.put(category, new ArrayList<>());
+			recommendation.get(category).add(recLevel);
+			if (levelRatios.get(recLevel) > 0.40 && levelRatios.get(recLevel) < 0.70) {
+				recommendation.get(category).add(recLevel + 1);
+			}
 		}
 
 		return recommendation;
@@ -131,12 +135,12 @@ public class User {
 	public static List<Problem> getRecommendedProblems(String username) throws IOException {
 		List<Problem> allProblems = Problem.getProblems();
 		List<Problem> userSolvedProblems = getAccepted(username);
-		Map<String, Integer> recommendedLevels = getRecommendedLevelPerCategory(username);
+		Map<String, List<Integer>> recommendedLevels = getRecommendedLevelsPerCategory(username);
 
 		// filter out solved problems and problems of other levels
 		List<Problem> filteredProblems = allProblems.stream()
 				.filter(problem -> !userSolvedProblems.contains(problem))
-				.filter(problem -> problem.level == recommendedLevels.get(problem.category) || problem.level == recommendedLevels.get(problem.category) + 1)
+				.filter(problem -> recommendedLevels.get(problem.category).contains(problem.level))
 				.collect(Collectors.toList());
 		Collections.shuffle(allProblems);
 
